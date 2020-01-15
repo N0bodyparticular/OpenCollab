@@ -72,3 +72,6 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+OPC/Saved/Logs/OPC-backup-2020.01.15-06.50.09.log
+OPC/Saved/Logs/OPC.log
+OPC/Saved/Logs/OPC.log
