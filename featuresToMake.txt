@@ -1,0 +1,26 @@
+Library map
+
+player can be vr or standalone pc
+
+run/join server
+
+various sections with seating
+
+whiteboards, can be drawn on
+
+voice chat
+
+meeting rooms - there is a meeting leader, people can request to talk
+
+Pages can have text and drawings
+
+Pages can be put into books, and books into bookshelves
+
+Books can be transferred from bookshelves.
+
+Bookshelves can be named
+
+The server can be saved, so everything remains where it was
+
+Servers can host data for projects or ideas
+
