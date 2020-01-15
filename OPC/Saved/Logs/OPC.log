@@ -825,3 +825,934 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.01.15-19.29.36:637][252]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
 [2020.01.15-19.29.36:827][252]LogSavePackage: Moving 'F:/OpenCollab/OpenCollab/OPC/Saved/Minimal_DefaultFC2F6F964504A35FD4067DAC0A49214A.tmp' to 'F:/OpenCollab/OpenCollab/OPC/Content/StarterContent/Maps/Minimal_Default.umap'
 [2020.01.15-19.29.36:850][252]LogFileHelpers: Saving map 'Minimal_Default' took 0.254
+[2020.01.15-19.30.53:283][ 35]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.15-19.31.03:025][748]LogSlate: Window 'New Level' being destroyed
+[2020.01.15-19.31.03:077][748]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.01.15-19.31.03:140][748]LightingResults: New page: Lighting Build
+[2020.01.15-19.31.03:140][748]LoadErrors: New page: Loading map: Template_Default.umap
+[2020.01.15-19.31.03:141][748]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2020.01.15-19.31.03:141][748]MapCheck: New page: Map Check
+[2020.01.15-19.31.03:141][748]LightingResults: New page: Lighting Build
+[2020.01.15-19.31.03:179][748]LogUObjectHash: Compacting FUObjectHashTables data took   2.98ms
+[2020.01.15-19.31.03:303][748]LogAIModule: Creating AISystem for world Untitled_1
+[2020.01.15-19.31.03:368][748]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.01.15-19.31.03:408][748]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2020.01.15-19.31.03:456][748]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.01.15-19.31.03:456][748]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.097ms to complete.
+[2020.01.15-19.31.03:456][748]LogFileHelpers: Loading map 'Template_Default' took 0.380
+[2020.01.15-19.31.13:910][ 64]LogSlate: Window 'Save Level As' being destroyed
+[2020.01.15-19.31.14:081][ 64]LogUObjectHash: Compacting FUObjectHashTables data took   3.81ms
+[2020.01.15-19.31.14:083][ 64]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainMenuMap" FILE="F:/OpenCollab/OpenCollab/OPC/Content/Maps/MainMenuMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.01.15-19.31.14:118][ 64]LogUObjectHash: Compacting FUObjectHashTables data took   2.98ms
+[2020.01.15-19.31.14:299][ 64]LogSavePackage: Moving 'F:/OpenCollab/OpenCollab/OPC/Saved/MainMenuMap1E0FFA4A43592F0BEC87E5828C57BD0A.tmp' to 'F:/OpenCollab/OpenCollab/OPC/Content/Maps/MainMenuMap.umap'
+[2020.01.15-19.31.14:321][ 64]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainMenuMap_BuiltData" FILE="F:/OpenCollab/OpenCollab/OPC/Content/Maps/MainMenuMap_BuiltData.uasset" SILENT=true
+[2020.01.15-19.31.14:362][ 64]LogSavePackage: Moving 'F:/OpenCollab/OpenCollab/OPC/Saved/MainMenuMap_BuiltDataABD9AF60499B0781DA671684589047D9.tmp' to 'F:/OpenCollab/OpenCollab/OPC/Content/Maps/MainMenuMap_BuiltData.uasset'
+[2020.01.15-19.31.14:411][ 64]LogFileHelpers: Saving map 'MainMenuMap' took 0.442
+[2020.01.15-19.38.00:494][829]BlueprintLog: New page: Compile BP_PlayerCharacter
+[2020.01.15-19.38.00:731][829]LogUObjectHash: Compacting FUObjectHashTables data took   4.02ms
+[2020.01.15-19.38.01:563][910]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerBPs/BP_PlayerCharacter" FILE="F:/OpenCollab/OpenCollab/OPC/Content/PlayerBPs/BP_PlayerCharacter.uasset" SILENT=true
+[2020.01.15-19.38.01:599][910]LogSavePackage: Moving 'F:/OpenCollab/OpenCollab/OPC/Saved/BP_PlayerCharacter92461C7D4A16FF5B4FA575AF411276F9.tmp' to 'F:/OpenCollab/OpenCollab/OPC/Content/PlayerBPs/BP_PlayerCharacter.uasset'
+[2020.01.15-19.38.13:212][176]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/MainMenuMap.MainMenuMap
+[2020.01.15-19.38.13:245][176]LogUObjectHash: Compacting FUObjectHashTables data took   3.59ms
+[2020.01.15-19.38.13:246][176]Cmd: MAP LOAD FILE="F:/OpenCollab/OpenCollab/OPC/Content/Maps/MainMenuMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.01.15-19.38.13:246][176]LightingResults: New page: Lighting Build
+[2020.01.15-19.38.13:247][176]LoadErrors: New page: Loading map: MainMenuMap.umap
+[2020.01.15-19.38.13:247][176]LogWorld: UWorld::CleanupWorld for MainMenuMap, bSessionEnded=true, bCleanupResources=true
+[2020.01.15-19.38.13:247][176]MapCheck: New page: Map Check
+[2020.01.15-19.38.13:247][176]LightingResults: New page: Lighting Build
+[2020.01.15-19.38.13:286][176]LogUObjectHash: Compacting FUObjectHashTables data took   3.35ms
+[2020.01.15-19.38.13:295][176]LogAIModule: Creating AISystem for world MainMenuMap
+[2020.01.15-19.38.13:359][176]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.01.15-19.38.13:395][176]LogUObjectHash: Compacting FUObjectHashTables data took   2.87ms
+[2020.01.15-19.38.13:415][176]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.01.15-19.38.13:415][176]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.07ms to complete.
+[2020.01.15-19.38.13:417][176]LogFileHelpers: Loading map 'MainMenuMap' took 0.171
+[2020.01.15-19.38.25:330][103]LogSlate: Window 'Pick Parent Class' being destroyed
+[2020.01.15-19.38.40:534][682]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.15-19.38.56:284][291]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/PlayerBPs/BP_MainMenuPawn.BP_MainMenuPawn
+[2020.01.15-19.39.05:863][205]BlueprintLog: New page: Compile BP_MainMenuPawn
+[2020.01.15-19.39.06:120][205]LogUObjectHash: Compacting FUObjectHashTables data took   3.74ms
+[2020.01.15-19.39.11:337][769]BlueprintLog: New page: Compile BP_MainMenuPawn
+[2020.01.15-19.39.11:594][769]LogUObjectHash: Compacting FUObjectHashTables data took   3.91ms
+[2020.01.15-19.39.12:032][811]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerBPs/BP_MainMenuPawn" FILE="F:/OpenCollab/OpenCollab/OPC/Content/PlayerBPs/BP_MainMenuPawn.uasset" SILENT=true
+[2020.01.15-19.39.12:037][811]LogSavePackage: Moving 'F:/OpenCollab/OpenCollab/OPC/Saved/BP_MainMenuPawnC166078642A3ABDE4F51BE9C9C6F54BA.tmp' to 'F:/OpenCollab/OpenCollab/OPC/Content/PlayerBPs/BP_MainMenuPawn.uasset'
+[2020.01.15-19.39.52:660][343]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.01.15-19.39.52:673][343]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/MainMenuMap.MainMenuMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenuMap.MainMenuMap:PersistentLevel.MainMenuMap' with GeneratedClass '/Game/Maps/MainMenuMap.MainMenuMap_C' with ClassGeneratedBy '/Game/Maps/MainMenuMap.MainMenuMap:PersistentLevel.MainMenuMap'
+[2020.01.15-19.39.52:673][343]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.01.15-19.39.52:673][343]LogPlayLevel: [PlayLevel] Compiling BP_MainMenuPawn before play...
+[2020.01.15-19.39.52:963][343]LogUObjectHash: Compacting FUObjectHashTables data took   4.18ms
+[2020.01.15-19.39.52:963][343]LogPlayLevel: PlayLevel: Blueprint regeneration took 290 ms (1 blueprints)
+[2020.01.15-19.39.52:963][343]LogHMD: Initializing OVRPlugin session
+[2020.01.15-19.39.53:039][343]LogHMD: Allocating Oculus 3296 x 1776 rendertarget swapchain
+[2020.01.15-19.39.53:040][343]PIE: New page: PIE session: MainMenuMap (Jan 16, 2020, 5:39:53 PM)
+[2020.01.15-19.39.53:041][343]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMenuMap
+[2020.01.15-19.39.53:044][343]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002720s)
+[2020.01.15-19.39.53:045][343]LogAIModule: Creating AISystem for world MainMenuMap
+[2020.01.15-19.39.53:045][343]LogPlayLevel: PIE: World Init took: (0.000913s)
+[2020.01.15-19.39.53:045][343]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenuMap.MainMenuMap to /Game/Maps/UEDPIE_0_MainMenuMap.MainMenuMap (0.003819s)
+[2020.01.15-19.39.53:085][343]LogUObjectHash: Compacting FUObjectHashTables data took   2.92ms
+[2020.01.15-19.39.53:134][343]LogInit: XAudio2 using 'Headset Earphone (HyperX Virtual Surround Sound)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.01.15-19.39.53:149][343]LogInit: FAudioDevice initialized.
+[2020.01.15-19.39.53:158][343]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.15-19.39.53:158][343]LogLoad: Game class is 'GameModeBase'
+[2020.01.15-19.39.53:159][343]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMenuMap.MainMenuMap up for play (max tick rate 0) at 2020.01.16-06.39.53
+[2020.01.15-19.39.53:160][343]LogWorld: Bringing up level for play took: 0.000959
+[2020.01.15-19.39.53:160][343]LogOnline: OSS: Creating online subsystem instance for: :Context_14
+[2020.01.15-19.39.53:179][343]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_MainMenuMap 0.076
+[2020.01.15-19.39.53:180][343]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/MainMenuMap.MainMenuMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenuMap.MainMenuMap:PersistentLevel.MainMenuMap' with GeneratedClass '/Game/Maps/MainMenuMap.MainMenuMap_C' with ClassGeneratedBy '/Game/Maps/MainMenuMap.MainMenuMap:PersistentLevel.MainMenuMap'
+[2020.01.15-19.39.54:915][533]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/MainMenuMap.MainMenuMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenuMap.MainMenuMap:PersistentLevel.MainMenuMap' with GeneratedClass '/Game/Maps/MainMenuMap.MainMenuMap_C' with ClassGeneratedBy '/Game/Maps/MainMenuMap.MainMenuMap:PersistentLevel.MainMenuMap'
+[2020.01.15-19.39.54:920][533]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.15-19.39.54:920][533]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MainMenuMap
+[2020.01.15-19.39.54:930][533]LogSlate: Window 'OPC Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.01.15-19.39.54:976][533]LogWorld: UWorld::CleanupWorld for MainMenuMap, bSessionEnded=true, bCleanupResources=true
+[2020.01.15-19.39.54:986][533]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.15-19.39.54:987][533]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/MainMenuMap.MainMenuMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenuMap.MainMenuMap:PersistentLevel.MainMenuMap' with GeneratedClass '/Game/Maps/MainMenuMap.MainMenuMap_C' with ClassGeneratedBy '/Game/Maps/MainMenuMap.MainMenuMap:PersistentLevel.MainMenuMap'
+[2020.01.15-19.39.55:037][533]LogUObjectHash: Compacting FUObjectHashTables data took   3.09ms
+[2020.01.15-19.39.55:059][534]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2020.01.15-19.42.30:852][ 52]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/UI/MainMenu/BP_MainMenuOpeningScreen.BP_MainMenuOpeningScreen
+[2020.01.15-19.43.43:757][915]BlueprintLog: New page: Compile BP_MainMenuOpeningScreen
+[2020.01.15-19.43.44:077][915]LogUObjectHash: Compacting FUObjectHashTables data took   5.66ms
+[2020.01.15-19.44.04:778][248]LogSlate: Took 0.054258 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2020.01.15-19.52.16:079][552]LogEditorViewport: Clicking on Actor (LMB): BP_MainMenuPawn_C (BP_MainMenuPawn)
+[2020.01.15-19.52.16:096][552]LogEditorViewport: Clicking on Component (LMB): CameraComponent (Camera)
+[2020.01.15-19.52.17:313][682]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.15-19.52.20:890][ 68]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2020.01.15-19.52.31:860][299]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.01.15-19.53.13:767][832]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.01.15-19.53.13:784][832]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/MainMenuMap.MainMenuMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenuMap.MainMenuMap:PersistentLevel.MainMenuMap' with GeneratedClass '/Game/Maps/MainMenuMap.MainMenuMap_C' with ClassGeneratedBy '/Game/Maps/MainMenuMap.MainMenuMap:PersistentLevel.MainMenuMap'
+[2020.01.15-19.53.13:784][832]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.01.15-19.53.13:784][832]LogPlayLevel: [PlayLevel] Compiling BP_MainMenuPawn before play...
+[2020.01.15-19.53.14:203][832]LogPlayLevel: [PlayLevel] Compiling BP_MainMenuOpeningScreen before play...
+[2020.01.15-19.53.14:658][832]LogUObjectHash: Compacting FUObjectHashTables data took   6.08ms
+[2020.01.15-19.53.14:658][832]LogPlayLevel: PlayLevel: Blueprint regeneration took 873 ms (2 blueprints)
+[2020.01.15-19.53.14:658][832]LogHMD: Initializing OVRPlugin session
+[2020.01.15-19.53.14:739][832]LogHMD: Allocating Oculus 3296 x 1776 rendertarget swapchain
+[2020.01.15-19.53.14:740][832]PIE: New page: PIE session: MainMenuMap (Jan 16, 2020, 5:53:14 PM)
+[2020.01.15-19.53.14:740][832]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMenuMap
+[2020.01.15-19.53.14:743][832]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002561s)
+[2020.01.15-19.53.14:743][832]LogAIModule: Creating AISystem for world MainMenuMap
+[2020.01.15-19.53.14:744][832]LogPlayLevel: PIE: World Init took: (0.000985s)
+[2020.01.15-19.53.14:744][832]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenuMap.MainMenuMap to /Game/Maps/UEDPIE_0_MainMenuMap.MainMenuMap (0.003689s)
+[2020.01.15-19.53.14:813][832]LogUObjectHash: Compacting FUObjectHashTables data took   3.90ms
+[2020.01.15-19.53.14:864][832]LogInit: XAudio2 using 'Headset Earphone (HyperX Virtual Surround Sound)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.01.15-19.53.14:880][832]LogInit: FAudioDevice initialized.
+[2020.01.15-19.53.14:889][832]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.15-19.53.14:889][832]LogLoad: Game class is 'GameModeBase'
+[2020.01.15-19.53.14:891][832]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMenuMap.MainMenuMap up for play (max tick rate 0) at 2020.01.16-06.53.14
+[2020.01.15-19.53.14:891][832]LogWorld: Bringing up level for play took: 0.001001
+[2020.01.15-19.53.14:891][832]LogOnline: OSS: Creating online subsystem instance for: :Context_17
+[2020.01.15-19.53.14:904][832]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(723)]!
+[2020.01.15-19.53.14:906][832]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_MainMenuMap 1.803
+[2020.01.15-19.53.14:906][832]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/MainMenuMap.MainMenuMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenuMap.MainMenuMap:PersistentLevel.MainMenuMap' with GeneratedClass '/Game/Maps/MainMenuMap.MainMenuMap_C' with ClassGeneratedBy '/Game/Maps/MainMenuMap.MainMenuMap:PersistentLevel.MainMenuMap'
+[2020.01.15-19.53.19:589][330]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.15-19.53.22:479][662]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.15-19.53.23:604][790]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.15-19.53.23:604][790]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/MainMenuMap.MainMenuMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenuMap.MainMenuMap:PersistentLevel.MainMenuMap' with GeneratedClass '/Game/Maps/MainMenuMap.MainMenuMap_C' with ClassGeneratedBy '/Game/Maps/MainMenuMap.MainMenuMap:PersistentLevel.MainMenuMap'
+[2020.01.15-19.53.23:607][790]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MainMenuMap
+[2020.01.15-19.53.23:616][790]LogSlate: Window 'OPC Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.01.15-19.53.23:664][790]LogWorld: UWorld::CleanupWorld for MainMenuMap, bSessionEnded=true, bCleanupResources=true
+[2020.01.15-19.53.23:677][790]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.15-19.53.23:677][790]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/MainMenuMap.MainMenuMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenuMap.MainMenuMap:PersistentLevel.MainMenuMap' with GeneratedClass '/Game/Maps/MainMenuMap.MainMenuMap_C' with ClassGeneratedBy '/Game/Maps/MainMenuMap.MainMenuMap:PersistentLevel.MainMenuMap'
+[2020.01.15-19.53.23:721][790]LogUObjectHash: Compacting FUObjectHashTables data took   2.87ms
+[2020.01.15-19.53.23:746][791]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2020.01.15-19.54.24:997][461]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2020.01.15-19.54.24:998][461]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainMenuMap" FILE="F:/OpenCollab/OpenCollab/OPC/Saved/Autosaves/Game/Maps/MainMenuMap_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2020.01.15-19.54.25:225][461]LogSavePackage: Moving 'F:/OpenCollab/OpenCollab/OPC/Saved/MainMenuMap_Auto11198190346A5E1D3C89CB19896576A88.tmp' to 'F:/OpenCollab/OpenCollab/OPC/Saved/Autosaves/Game/Maps/MainMenuMap_Auto1.umap'
+[2020.01.15-19.54.25:228][461]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/MainMenuMap' took 0.270
+[2020.01.15-19.54.25:228][461]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.270
+[2020.01.15-19.54.25:230][461]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PlayerBPs/BP_MainMenuPawn] ([1] browsable assets)...
+[2020.01.15-19.54.25:230][461]OBJ SavePackage: Finished generating thumbnails for package [/Game/PlayerBPs/BP_MainMenuPawn]
+[2020.01.15-19.54.25:230][461]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerBPs/BP_MainMenuPawn" FILE="F:/OpenCollab/OpenCollab/OPC/Saved/Autosaves/Game/PlayerBPs/BP_MainMenuPawn_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2020.01.15-19.54.25:446][461]LogSavePackage: Moving 'F:/OpenCollab/OpenCollab/OPC/Saved/BP_MainMenuPawn_Auto181A729A340C99515B04BA0A983709AE3.tmp' to 'F:/OpenCollab/OpenCollab/OPC/Saved/Autosaves/Game/PlayerBPs/BP_MainMenuPawn_Auto1.uasset'
+[2020.01.15-19.54.25:447][461]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UI/MainMenu/BP_MainMenuOpeningScreen] ([1] browsable assets)...
+[2020.01.15-19.54.25:447][461]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/MainMenu/BP_MainMenuOpeningScreen]
+[2020.01.15-19.54.25:481][461]LogSavePackage: Moving 'F:/OpenCollab/OpenCollab/OPC/Saved/BP_MainMenuOpeningScreen_Auto1EA2A66344E3BBA1D575147AF1C77F8DC.tmp' to 'F:/OpenCollab/OpenCollab/OPC/Saved/Autosaves/Game/UI/MainMenu/BP_MainMenuOpeningScreen_Auto1.uasset'
+[2020.01.15-19.54.25:482][461]LogFileHelpers: Auto-saving content packages took 0.253
+[2020.01.15-19.55.08:842][579]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.01.15-19.55.08:857][579]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/MainMenuMap.MainMenuMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenuMap.MainMenuMap:PersistentLevel.MainMenuMap' with GeneratedClass '/Game/Maps/MainMenuMap.MainMenuMap_C' with ClassGeneratedBy '/Game/Maps/MainMenuMap.MainMenuMap:PersistentLevel.MainMenuMap'
+[2020.01.15-19.55.08:857][579]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.01.15-19.55.08:858][579]LogPlayLevel: [PlayLevel] Compiling BP_MainMenuPawn before play...
+[2020.01.15-19.55.09:117][579]LogUObjectHash: Compacting FUObjectHashTables data took   3.92ms
+[2020.01.15-19.55.09:117][579]LogPlayLevel: PlayLevel: Blueprint regeneration took 259 ms (1 blueprints)
+[2020.01.15-19.55.09:117][579]LogHMD: Initializing OVRPlugin session
+[2020.01.15-19.55.09:189][579]LogHMD: Allocating Oculus 3296 x 1776 rendertarget swapchain
+[2020.01.15-19.55.09:190][579]PIE: New page: PIE session: MainMenuMap (Jan 16, 2020, 5:55:09 PM)
+[2020.01.15-19.55.09:190][579]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMenuMap
+[2020.01.15-19.55.09:193][579]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002332s)
+[2020.01.15-19.55.09:193][579]LogAIModule: Creating AISystem for world MainMenuMap
+[2020.01.15-19.55.09:194][579]LogPlayLevel: PIE: World Init took: (0.000873s)
+[2020.01.15-19.55.09:194][579]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenuMap.MainMenuMap to /Game/Maps/UEDPIE_0_MainMenuMap.MainMenuMap (0.003321s)
+[2020.01.15-19.55.09:233][579]LogUObjectHash: Compacting FUObjectHashTables data took   2.93ms
+[2020.01.15-19.55.09:279][579]LogInit: XAudio2 using 'Headset Earphone (HyperX Virtual Surround Sound)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.01.15-19.55.09:294][579]LogInit: FAudioDevice initialized.
+[2020.01.15-19.55.09:302][579]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.15-19.55.09:302][579]LogLoad: Game class is 'GameModeBase'
+[2020.01.15-19.55.09:303][579]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMenuMap.MainMenuMap up for play (max tick rate 0) at 2020.01.16-06.55.09
+[2020.01.15-19.55.09:304][579]LogWorld: Bringing up level for play took: 0.001152
+[2020.01.15-19.55.09:304][579]LogOnline: OSS: Creating online subsystem instance for: :Context_18
+[2020.01.15-19.55.09:307][579]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(723)]!
+[2020.01.15-19.55.09:308][579]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_MainMenuMap 0.206
+[2020.01.15-19.55.09:309][579]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/MainMenuMap.MainMenuMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenuMap.MainMenuMap:PersistentLevel.MainMenuMap' with GeneratedClass '/Game/Maps/MainMenuMap.MainMenuMap_C' with ClassGeneratedBy '/Game/Maps/MainMenuMap.MainMenuMap:PersistentLevel.MainMenuMap'
+[2020.01.15-19.55.10:815][741]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.15-19.55.14:867][198]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/MainMenuMap.MainMenuMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenuMap.MainMenuMap:PersistentLevel.MainMenuMap' with GeneratedClass '/Game/Maps/MainMenuMap.MainMenuMap_C' with ClassGeneratedBy '/Game/Maps/MainMenuMap.MainMenuMap:PersistentLevel.MainMenuMap'
+[2020.01.15-19.55.14:871][198]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.15-19.55.14:871][198]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MainMenuMap
+[2020.01.15-19.55.14:880][198]LogSlate: Window 'OPC Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.01.15-19.55.14:928][198]LogWorld: UWorld::CleanupWorld for MainMenuMap, bSessionEnded=true, bCleanupResources=true
+[2020.01.15-19.55.14:940][198]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.15-19.55.14:940][198]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/MainMenuMap.MainMenuMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenuMap.MainMenuMap:PersistentLevel.MainMenuMap' with GeneratedClass '/Game/Maps/MainMenuMap.MainMenuMap_C' with ClassGeneratedBy '/Game/Maps/MainMenuMap.MainMenuMap:PersistentLevel.MainMenuMap'
+[2020.01.15-19.55.14:988][198]LogUObjectHash: Compacting FUObjectHashTables data took   2.87ms
+[2020.01.15-19.55.15:012][199]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2020.01.15-19.55.26:681][409]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.01.15-19.55.26:703][409]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/MainMenuMap.MainMenuMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenuMap.MainMenuMap:PersistentLevel.MainMenuMap' with GeneratedClass '/Game/Maps/MainMenuMap.MainMenuMap_C' with ClassGeneratedBy '/Game/Maps/MainMenuMap.MainMenuMap:PersistentLevel.MainMenuMap'
+[2020.01.15-19.55.26:703][409]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.15-19.55.26:703][409]LogHMD: Initializing OVRPlugin session
+[2020.01.15-19.55.26:775][409]LogHMD: Allocating Oculus 3296 x 1776 rendertarget swapchain
+[2020.01.15-19.55.26:776][409]PIE: New page: PIE session: MainMenuMap (Jan 16, 2020, 5:55:26 PM)
+[2020.01.15-19.55.26:776][409]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMenuMap
+[2020.01.15-19.55.26:778][409]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002191s)
+[2020.01.15-19.55.26:779][409]LogAIModule: Creating AISystem for world MainMenuMap
+[2020.01.15-19.55.26:779][409]LogPlayLevel: PIE: World Init took: (0.000852s)
+[2020.01.15-19.55.26:779][409]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenuMap.MainMenuMap to /Game/Maps/UEDPIE_0_MainMenuMap.MainMenuMap (0.003150s)
+[2020.01.15-19.55.26:819][409]LogUObjectHash: Compacting FUObjectHashTables data took   3.12ms
+[2020.01.15-19.55.26:865][409]LogInit: XAudio2 using 'Headset Earphone (HyperX Virtual Surround Sound)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.01.15-19.55.26:877][409]LogInit: FAudioDevice initialized.
+[2020.01.15-19.55.26:886][409]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.15-19.55.26:886][409]LogLoad: Game class is 'GameModeBase'
+[2020.01.15-19.55.26:887][409]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMenuMap.MainMenuMap up for play (max tick rate 0) at 2020.01.16-06.55.26
+[2020.01.15-19.55.26:887][409]LogWorld: Bringing up level for play took: 0.000969
+[2020.01.15-19.55.26:887][409]LogOnline: OSS: Creating online subsystem instance for: :Context_19
+[2020.01.15-19.55.26:890][409]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(723)]!
+[2020.01.15-19.55.26:893][409]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_MainMenuMap -0.21
+[2020.01.15-19.55.26:893][409]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/MainMenuMap.MainMenuMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenuMap.MainMenuMap:PersistentLevel.MainMenuMap' with GeneratedClass '/Game/Maps/MainMenuMap.MainMenuMap_C' with ClassGeneratedBy '/Game/Maps/MainMenuMap.MainMenuMap:PersistentLevel.MainMenuMap'
+[2020.01.15-19.55.27:895][492]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.15-19.55.28:003][501]LogRenderer: Reallocating scene render targets to support 1924x1016 Format 10 NumSamples 1 (Frame:93).
+[2020.01.15-19.55.34:643][917]LogRenderer: Reallocating scene render targets to support 3072x1664 Format 10 NumSamples 1 (Frame:512).
+[2020.01.15-19.55.45:363][868]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.15-19.55.46:519][970]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.15-19.55.46:519][970]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/MainMenuMap.MainMenuMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenuMap.MainMenuMap:PersistentLevel.MainMenuMap' with GeneratedClass '/Game/Maps/MainMenuMap.MainMenuMap_C' with ClassGeneratedBy '/Game/Maps/MainMenuMap.MainMenuMap:PersistentLevel.MainMenuMap'
+[2020.01.15-19.55.46:522][970]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MainMenuMap
+[2020.01.15-19.55.46:532][970]LogSlate: Window 'OPC Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.01.15-19.55.46:579][970]LogWorld: UWorld::CleanupWorld for MainMenuMap, bSessionEnded=true, bCleanupResources=true
+[2020.01.15-19.55.46:587][970]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.15-19.55.46:588][970]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/MainMenuMap.MainMenuMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenuMap.MainMenuMap:PersistentLevel.MainMenuMap' with GeneratedClass '/Game/Maps/MainMenuMap.MainMenuMap_C' with ClassGeneratedBy '/Game/Maps/MainMenuMap.MainMenuMap:PersistentLevel.MainMenuMap'
+[2020.01.15-19.55.46:632][970]LogUObjectHash: Compacting FUObjectHashTables data took   3.00ms
+[2020.01.15-19.55.46:652][971]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2020.01.15-19.57.35:261][ 82]BlueprintLog: New page: Compile BP_MainMenuOpeningScreen
+[2020.01.15-19.57.35:517][ 82]LogUObjectHash: Compacting FUObjectHashTables data took   4.07ms
+[2020.01.15-19.57.36:003][124]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.01.15-19.57.36:025][124]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/MainMenuMap.MainMenuMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenuMap.MainMenuMap:PersistentLevel.MainMenuMap' with GeneratedClass '/Game/Maps/MainMenuMap.MainMenuMap_C' with ClassGeneratedBy '/Game/Maps/MainMenuMap.MainMenuMap:PersistentLevel.MainMenuMap'
+[2020.01.15-19.57.36:025][124]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.15-19.57.36:025][124]LogHMD: Initializing OVRPlugin session
+[2020.01.15-19.57.36:098][124]LogHMD: Allocating Oculus 3296 x 1776 rendertarget swapchain
+[2020.01.15-19.57.36:098][124]PIE: New page: PIE session: MainMenuMap (Jan 16, 2020, 5:57:36 PM)
+[2020.01.15-19.57.36:099][124]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMenuMap
+[2020.01.15-19.57.36:101][124]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002200s)
+[2020.01.15-19.57.36:102][124]LogAIModule: Creating AISystem for world MainMenuMap
+[2020.01.15-19.57.36:102][124]LogPlayLevel: PIE: World Init took: (0.000847s)
+[2020.01.15-19.57.36:102][124]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenuMap.MainMenuMap to /Game/Maps/UEDPIE_0_MainMenuMap.MainMenuMap (0.003158s)
+[2020.01.15-19.57.36:138][124]LogUObjectHash: Compacting FUObjectHashTables data took   3.87ms
+[2020.01.15-19.57.36:186][124]LogInit: XAudio2 using 'Headset Earphone (HyperX Virtual Surround Sound)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.01.15-19.57.36:201][124]LogInit: FAudioDevice initialized.
+[2020.01.15-19.57.36:209][124]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.15-19.57.36:209][124]LogLoad: Game class is 'GameModeBase'
+[2020.01.15-19.57.36:211][124]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMenuMap.MainMenuMap up for play (max tick rate 0) at 2020.01.16-06.57.36
+[2020.01.15-19.57.36:211][124]LogWorld: Bringing up level for play took: 0.001048
+[2020.01.15-19.57.36:211][124]LogOnline: OSS: Creating online subsystem instance for: :Context_20
+[2020.01.15-19.57.36:214][124]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(723)]!
+[2020.01.15-19.57.36:217][124]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_MainMenuMap 1.114
+[2020.01.15-19.57.36:217][124]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/MainMenuMap.MainMenuMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenuMap.MainMenuMap:PersistentLevel.MainMenuMap' with GeneratedClass '/Game/Maps/MainMenuMap.MainMenuMap_C' with ClassGeneratedBy '/Game/Maps/MainMenuMap.MainMenuMap:PersistentLevel.MainMenuMap'
+[2020.01.15-19.57.37:449][224]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.15-19.57.40:226][458]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/MainMenuMap.MainMenuMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenuMap.MainMenuMap:PersistentLevel.MainMenuMap' with GeneratedClass '/Game/Maps/MainMenuMap.MainMenuMap_C' with ClassGeneratedBy '/Game/Maps/MainMenuMap.MainMenuMap:PersistentLevel.MainMenuMap'
+[2020.01.15-19.57.40:231][458]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.15-19.57.40:231][458]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MainMenuMap
+[2020.01.15-19.57.40:242][458]LogSlate: Window 'OPC Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.01.15-19.57.40:288][458]LogWorld: UWorld::CleanupWorld for MainMenuMap, bSessionEnded=true, bCleanupResources=true
+[2020.01.15-19.57.40:299][458]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.15-19.57.40:299][458]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/MainMenuMap.MainMenuMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenuMap.MainMenuMap:PersistentLevel.MainMenuMap' with GeneratedClass '/Game/Maps/MainMenuMap.MainMenuMap_C' with ClassGeneratedBy '/Game/Maps/MainMenuMap.MainMenuMap:PersistentLevel.MainMenuMap'
+[2020.01.15-19.57.40:351][458]LogUObjectHash: Compacting FUObjectHashTables data took   3.20ms
+[2020.01.15-19.57.40:372][459]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2020.01.15-21.29.48:963][658]LogHttp: Warning: 00000204925DFC40: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B14616239-499C-150E-488B-44973731E6A1%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=db3d519a4762e9bcbdc7938e8de22564%7C8fe50a05946d409e948681b224076a35%7C579fcd99-485f-43b9-9189-1aaaac7b95f3&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2020.01.15-21.29.48:963][658]LogHttp: Warning: 00000204925DFC40: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2020.01.15-21.29.48:963][658]LogHttp: Warning: 00000204925DFC40: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x2049b477f70 [can pipeline])
+[2020.01.15-21.29.48:963][658]LogHttp: Warning: 00000204925DFC40: libcurl info message cache 1 (Re-using existing connection! (#15) with host datarouter.ol.epicgames.com)
+[2020.01.15-21.29.48:964][658]LogHttp: Warning: 00000204925DFC40: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (34.236.93.59) port 443 (#15))
+[2020.01.15-21.29.48:964][658]LogHttp: Warning: 00000204925DFC40: libcurl info message cache 3 (We are completely uploaded and fine)
+[2020.01.15-21.29.48:964][658]LogHttp: Warning: 00000204925DFC40: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2020.01.15-21.29.48:964][658]LogHttp: Warning: 00000204925DFC40: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2020.01.15-21.29.48:964][658]LogHttp: Warning: 00000204925DFC40: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2020.01.15-21.29.48:964][658]LogHttp: Warning: 00000204925DFC40: libcurl info message cache 7 (Closing connection 15)
+[2020.01.15-21.29.48:964][658]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B14616239-499C-150E-488B-44973731E6A1%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=db3d519a4762e9bcbdc7938e8de22564%7C8fe50a05946d409e948681b224076a35%7C579fcd99-485f-43b9-9189-1aaaac7b95f3&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2020.01.15-21.29.58:811][686]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2020.01.15-21.29.58:811][686]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainMenuMap" FILE="F:/OpenCollab/OpenCollab/OPC/Saved/Autosaves/Game/Maps/MainMenuMap_Auto2.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2020.01.15-21.29.59:052][686]LogSavePackage: Moving 'F:/OpenCollab/OpenCollab/OPC/Saved/MainMenuMap_Auto265F26ABA4AFB28C8D42A1ABE129129E0.tmp' to 'F:/OpenCollab/OpenCollab/OPC/Saved/Autosaves/Game/Maps/MainMenuMap_Auto2.umap'
+[2020.01.15-21.29.59:055][686]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/MainMenuMap' took 0.282
+[2020.01.15-21.29.59:055][686]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.282
+[2020.01.15-21.29.59:056][686]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PlayerBPs/BP_MainMenuPawn] ([1] browsable assets)...
+[2020.01.15-21.29.59:057][686]OBJ SavePackage: Finished generating thumbnails for package [/Game/PlayerBPs/BP_MainMenuPawn]
+[2020.01.15-21.29.59:057][686]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerBPs/BP_MainMenuPawn" FILE="F:/OpenCollab/OpenCollab/OPC/Saved/Autosaves/Game/PlayerBPs/BP_MainMenuPawn_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2020.01.15-21.29.59:136][686]LogSavePackage: Moving 'F:/OpenCollab/OpenCollab/OPC/Saved/BP_MainMenuPawn_Auto20F23E5EE4AFAB12F2C1487B43400A7D6.tmp' to 'F:/OpenCollab/OpenCollab/OPC/Saved/Autosaves/Game/PlayerBPs/BP_MainMenuPawn_Auto2.uasset'
+[2020.01.15-21.29.59:137][686]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UI/MainMenu/BP_MainMenuOpeningScreen] ([1] browsable assets)...
+[2020.01.15-21.29.59:137][686]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/MainMenu/BP_MainMenuOpeningScreen]
+[2020.01.15-21.29.59:156][686]LogSavePackage: Moving 'F:/OpenCollab/OpenCollab/OPC/Saved/BP_MainMenuOpeningScreen_Auto2D6F100704EA6C9ECAA8C969A3D85A286.tmp' to 'F:/OpenCollab/OpenCollab/OPC/Saved/Autosaves/Game/UI/MainMenu/BP_MainMenuOpeningScreen_Auto2.uasset'
+[2020.01.15-21.29.59:157][686]LogFileHelpers: Auto-saving content packages took 0.101
+[2020.01.15-21.31.48:396][282]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.01.15-21.31.48:409][282]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/MainMenuMap.MainMenuMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenuMap.MainMenuMap:PersistentLevel.MainMenuMap' with GeneratedClass '/Game/Maps/MainMenuMap.MainMenuMap_C' with ClassGeneratedBy '/Game/Maps/MainMenuMap.MainMenuMap:PersistentLevel.MainMenuMap'
+[2020.01.15-21.31.48:409][282]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.15-21.31.48:409][282]LogHMD: Initializing OVRPlugin session
+[2020.01.15-21.31.48:485][282]LogHMD: Allocating Oculus 3296 x 1776 rendertarget swapchain
+[2020.01.15-21.31.48:486][282]PIE: New page: PIE session: MainMenuMap (Jan 16, 2020, 7:31:48 PM)
+[2020.01.15-21.31.48:487][282]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMenuMap
+[2020.01.15-21.31.48:489][282]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002552s)
+[2020.01.15-21.31.48:490][282]LogAIModule: Creating AISystem for world MainMenuMap
+[2020.01.15-21.31.48:490][282]LogPlayLevel: PIE: World Init took: (0.000972s)
+[2020.01.15-21.31.48:490][282]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenuMap.MainMenuMap to /Game/Maps/UEDPIE_0_MainMenuMap.MainMenuMap (0.003649s)
+[2020.01.15-21.31.48:528][282]LogUObjectHash: Compacting FUObjectHashTables data took   3.68ms
+[2020.01.15-21.31.48:573][282]LogInit: XAudio2 using 'Headset Earphone (HyperX Virtual Surround Sound)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.01.15-21.31.48:587][282]LogInit: FAudioDevice initialized.
+[2020.01.15-21.31.48:596][282]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.15-21.31.48:596][282]LogLoad: Game class is 'GameModeBase'
+[2020.01.15-21.31.48:597][282]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMenuMap.MainMenuMap up for play (max tick rate 0) at 2020.01.16-08.31.48
+[2020.01.15-21.31.48:598][282]LogWorld: Bringing up level for play took: 0.000978
+[2020.01.15-21.31.48:598][282]LogOnline: OSS: Creating online subsystem instance for: :Context_21
+[2020.01.15-21.31.48:601][282]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(723)]!
+[2020.01.15-21.31.48:603][282]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_MainMenuMap -0.443
+[2020.01.15-21.31.48:604][282]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/MainMenuMap.MainMenuMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenuMap.MainMenuMap:PersistentLevel.MainMenuMap' with GeneratedClass '/Game/Maps/MainMenuMap.MainMenuMap_C' with ClassGeneratedBy '/Game/Maps/MainMenuMap.MainMenuMap:PersistentLevel.MainMenuMap'
+[2020.01.15-21.31.50:295][423]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.15-21.31.54:437][736]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/MainMenuMap.MainMenuMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenuMap.MainMenuMap:PersistentLevel.MainMenuMap' with GeneratedClass '/Game/Maps/MainMenuMap.MainMenuMap_C' with ClassGeneratedBy '/Game/Maps/MainMenuMap.MainMenuMap:PersistentLevel.MainMenuMap'
+[2020.01.15-21.31.54:440][736]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.15-21.31.54:440][736]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MainMenuMap
+[2020.01.15-21.31.54:450][736]LogSlate: Window 'OPC Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.01.15-21.31.54:497][736]LogWorld: UWorld::CleanupWorld for MainMenuMap, bSessionEnded=true, bCleanupResources=true
+[2020.01.15-21.31.54:505][736]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.15-21.31.54:505][736]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/MainMenuMap.MainMenuMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenuMap.MainMenuMap:PersistentLevel.MainMenuMap' with GeneratedClass '/Game/Maps/MainMenuMap.MainMenuMap_C' with ClassGeneratedBy '/Game/Maps/MainMenuMap.MainMenuMap:PersistentLevel.MainMenuMap'
+[2020.01.15-21.31.54:551][736]LogUObjectHash: Compacting FUObjectHashTables data took   3.04ms
+[2020.01.15-21.31.54:570][737]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2020.01.15-21.32.27:239][954]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/UI/Templates/BP_BlurredBG_Template.BP_BlurredBG_Template
+[2020.01.15-21.33.18:831][639]BlueprintLog: New page: Compile BP_BlurredBG_Template
+[2020.01.15-21.33.19:079][639]LogUObjectHash: Compacting FUObjectHashTables data took   3.84ms
+[2020.01.15-21.33.19:444][667]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Templates/BP_BlurredBG_Template" FILE="F:/OpenCollab/OpenCollab/OPC/Content/UI/Templates/BP_BlurredBG_Template.uasset" SILENT=true
+[2020.01.15-21.33.19:452][667]LogSavePackage: Moving 'F:/OpenCollab/OpenCollab/OPC/Saved/BP_BlurredBG_Template45D4F4E14DC269D1F6B5C1A482F27207.tmp' to 'F:/OpenCollab/OpenCollab/OPC/Content/UI/Templates/BP_BlurredBG_Template.uasset'
+[2020.01.15-21.33.20:548][775]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2020.01.15-21.33.20:561][775]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2020.01.15-21.33.25:943][306]LogUObjectHash: Compacting FUObjectHashTables data took   3.85ms
+[2020.01.15-21.33.48:427][677]LogUObjectHash: Compacting FUObjectHashTables data took   3.37ms
+[2020.01.15-21.33.48:428][677]LogMetaData: Removing '/Game/UI/MainMenu/BP_MainMenuMultiuser.SKEL_BP_MainMenuMultiuser_C' ref from Metadata '/Game/UI/MainMenu/BP_BlurredBG_Template.PackageMetaData'
+[2020.01.15-21.33.48:428][677]LogMetaData: Removing '/Game/UI/MainMenu/BP_MainMenuMultiuser.BP_MainMenuMultiuser_C' ref from Metadata '/Game/UI/MainMenu/BP_BlurredBG_Template.PackageMetaData'
+[2020.01.15-21.33.48:535][677]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainMenu/BP_MainMenuMultiuser" FILE="F:/OpenCollab/OpenCollab/OPC/Content/UI/MainMenu/BP_MainMenuMultiuser.uasset" SILENT=true
+[2020.01.15-21.33.48:542][677]LogSavePackage: Moving 'F:/OpenCollab/OpenCollab/OPC/Saved/BP_MainMenuMultiuserB8CA3D494EFB27D8D07D58A3D2BE30C3.tmp' to 'F:/OpenCollab/OpenCollab/OPC/Content/UI/MainMenu/BP_MainMenuMultiuser.uasset'
+[2020.01.15-21.33.48:899][677]LogUObjectHash: Compacting FUObjectHashTables data took   3.16ms
+[2020.01.15-21.33.48:985][677]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2020.01.15-21.33.49:023][677]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2020.01.15-21.33.49:053][677]LogLinker: Warning: Failed to load '/Game/UI/MainMenu/BP_BlurredBG_Template': Can't find file.
+[2020.01.15-21.33.49:054][677]LogLinker: Warning: Failed to load '/Game/UI/MainMenu/BP_BlurredBG_Template': Can't find file.
+[2020.01.15-21.33.49:054][677]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/UI/MainMenu/BP_BlurredBG_Template.BP_BlurredBG_Template'
+[2020.01.15-21.33.52:132][951]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainMenu/BP_MainMenuOpeningScreen" FILE="F:/OpenCollab/OpenCollab/OPC/Content/UI/MainMenu/BP_MainMenuOpeningScreen.uasset" SILENT=true
+[2020.01.15-21.33.52:148][951]LogSavePackage: Moving 'F:/OpenCollab/OpenCollab/OPC/Saved/BP_MainMenuOpeningScreenC8C94A6048B6A4CC7326778F84236E20.tmp' to 'F:/OpenCollab/OpenCollab/OPC/Content/UI/MainMenu/BP_MainMenuOpeningScreen.uasset'
+[2020.01.15-21.33.52:809][  4]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/UI/MainMenu/BP_MainMenuMultiuser.BP_MainMenuMultiuser
+[2020.01.15-21.36.45:138][660]LogSlate: Window 'Color Picker' being destroyed
+[2020.01.15-21.36.57:762][  0]LogEditorTransaction: Undo Edit Horizontal Alignment
+[2020.01.15-21.36.58:239][ 19]Cmd: TRANSACTION UNDO
+[2020.01.15-21.36.58:239][ 19]LogEditorTransaction: Undo Edit Content Color and Opacity
+[2020.01.15-21.36.58:834][ 77]Cmd: TRANSACTION UNDO
+[2020.01.15-21.36.58:835][ 77]LogEditorTransaction: Undo Edit Content Color and Opacity
+[2020.01.15-21.36.59:544][149]Cmd: TRANSACTION UNDO
+[2020.01.15-21.36.59:545][149]LogEditorTransaction: Undo Edit Content Color and Opacity
+[2020.01.15-21.37.00:302][227]Cmd: TRANSACTION UNDO
+[2020.01.15-21.37.00:302][227]LogEditorTransaction: Undo Edit Content Color and Opacity
+[2020.01.15-21.37.00:824][278]Cmd: TRANSACTION UNDO
+[2020.01.15-21.37.00:824][278]LogEditorTransaction: Undo Edit Content Color and Opacity
+[2020.01.15-21.37.01:365][332]Cmd: TRANSACTION UNDO
+[2020.01.15-21.37.01:365][332]LogEditorTransaction: Undo Edit Content Color and Opacity
+[2020.01.15-21.37.01:813][378]Cmd: TRANSACTION UNDO
+[2020.01.15-21.37.01:813][378]LogEditorTransaction: Undo Edit Content Color and Opacity
+[2020.01.15-21.37.10:409][264]LogSlate: Window 'Color Picker' being destroyed
+[2020.01.15-21.37.36:302][912]LogSlate: Window 'Color Picker' being destroyed
+[2020.01.15-21.44.58:397][556]LogUObjectHash: Compacting FUObjectHashTables data took   4.83ms
+[2020.01.15-21.44.58:397][556]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainMenuMap" FILE="F:/OpenCollab/OpenCollab/OPC/Saved/Autosaves/Game/Maps/MainMenuMap_Auto3.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2020.01.15-21.44.58:632][556]LogSavePackage: Moving 'F:/OpenCollab/OpenCollab/OPC/Saved/MainMenuMap_Auto36026997F4FD48A91A1FAFF84EC9E6C10.tmp' to 'F:/OpenCollab/OpenCollab/OPC/Saved/Autosaves/Game/Maps/MainMenuMap_Auto3.umap'
+[2020.01.15-21.44.58:635][556]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/MainMenuMap' took 0.294
+[2020.01.15-21.44.58:635][556]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.294
+[2020.01.15-21.44.58:637][556]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PlayerBPs/BP_MainMenuPawn] ([1] browsable assets)...
+[2020.01.15-21.44.58:637][556]OBJ SavePackage: Finished generating thumbnails for package [/Game/PlayerBPs/BP_MainMenuPawn]
+[2020.01.15-21.44.58:637][556]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerBPs/BP_MainMenuPawn" FILE="F:/OpenCollab/OpenCollab/OPC/Saved/Autosaves/Game/PlayerBPs/BP_MainMenuPawn_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2020.01.15-21.44.58:812][556]LogSavePackage: Moving 'F:/OpenCollab/OpenCollab/OPC/Saved/BP_MainMenuPawn_Auto3B7DF99A94FDDFDF8603145A1A70E8720.tmp' to 'F:/OpenCollab/OpenCollab/OPC/Saved/Autosaves/Game/PlayerBPs/BP_MainMenuPawn_Auto3.uasset'
+[2020.01.15-21.44.58:813][556]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UI/MainMenu/BP_MainMenuMultiuser] ([1] browsable assets)...
+[2020.01.15-21.44.58:813][556]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/MainMenu/BP_MainMenuMultiuser]
+[2020.01.15-21.44.58:813][556]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainMenu/BP_MainMenuMultiuser" FILE="F:/OpenCollab/OpenCollab/OPC/Saved/Autosaves/Game/UI/MainMenu/BP_MainMenuMultiuser_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2020.01.15-21.44.58:830][556]LogSavePackage: Moving 'F:/OpenCollab/OpenCollab/OPC/Saved/BP_MainMenuMultiuser_Auto3525B9CB94292E6AFA5A01E96442AB725.tmp' to 'F:/OpenCollab/OpenCollab/OPC/Saved/Autosaves/Game/UI/MainMenu/BP_MainMenuMultiuser_Auto3.uasset'
+[2020.01.15-21.44.58:831][556]LogFileHelpers: Auto-saving content packages took 0.194
+[2020.01.15-22.08.12:871][934]LogUObjectHash: Compacting FUObjectHashTables data took   4.61ms
+[2020.01.15-22.08.12:871][934]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/MainMenuMap' took 0.044
+[2020.01.15-22.08.12:873][934]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UI/MainMenu/BP_MainMenuMultiuser] ([1] browsable assets)...
+[2020.01.15-22.08.12:873][934]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/MainMenu/BP_MainMenuMultiuser]
+[2020.01.15-22.08.12:873][934]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainMenu/BP_MainMenuMultiuser" FILE="F:/OpenCollab/OpenCollab/OPC/Saved/Autosaves/Game/UI/MainMenu/BP_MainMenuMultiuser_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2020.01.15-22.08.12:893][934]LogSavePackage: Moving 'F:/OpenCollab/OpenCollab/OPC/Saved/BP_MainMenuMultiuser_Auto45F40DDDB4571DEC196CC59BD259AA3B3.tmp' to 'F:/OpenCollab/OpenCollab/OPC/Saved/Autosaves/Game/UI/MainMenu/BP_MainMenuMultiuser_Auto4.uasset'
+[2020.01.15-22.08.12:893][934]LogFileHelpers: Auto-saving content packages took 0.021
+[2020.01.15-22.08.56:468][853]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.01.15-22.09.29:201][370]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.01.15-22.09.29:221][370]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/MainMenuMap.MainMenuMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenuMap.MainMenuMap:PersistentLevel.MainMenuMap' with GeneratedClass '/Game/Maps/MainMenuMap.MainMenuMap_C' with ClassGeneratedBy '/Game/Maps/MainMenuMap.MainMenuMap:PersistentLevel.MainMenuMap'
+[2020.01.15-22.09.29:221][370]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.01.15-22.09.29:222][370]LogPlayLevel: [PlayLevel] Compiling BP_MainMenuPawn before play...
+[2020.01.15-22.09.29:452][370]LogPlayLevel: [PlayLevel] Compiling BP_MainMenuOpeningScreen before play...
+[2020.01.15-22.09.29:690][370]LogPlayLevel: [PlayLevel] Compiling BP_MainMenuMultiuser before play...
+[2020.01.15-22.09.29:966][370]LogUObjectHash: Compacting FUObjectHashTables data took   4.85ms
+[2020.01.15-22.09.29:966][370]LogPlayLevel: PlayLevel: Blueprint regeneration took 745 ms (3 blueprints)
+[2020.01.15-22.09.29:966][370]LogHMD: Initializing OVRPlugin session
+[2020.01.15-22.09.31:357][370]LogHMD: Allocating Oculus 3296 x 1776 rendertarget swapchain
+[2020.01.15-22.09.31:358][370]PIE: New page: PIE session: MainMenuMap (Jan 16, 2020, 8:09:31 PM)
+[2020.01.15-22.09.31:358][370]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMenuMap
+[2020.01.15-22.09.31:360][370]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002502s)
+[2020.01.15-22.09.31:361][370]LogAIModule: Creating AISystem for world MainMenuMap
+[2020.01.15-22.09.31:361][370]LogPlayLevel: PIE: World Init took: (0.000962s)
+[2020.01.15-22.09.31:362][370]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenuMap.MainMenuMap to /Game/Maps/UEDPIE_0_MainMenuMap.MainMenuMap (0.003632s)
+[2020.01.15-22.09.31:405][370]LogUObjectHash: Compacting FUObjectHashTables data took   3.01ms
+[2020.01.15-22.09.31:452][370]LogInit: XAudio2 using 'Headset Earphone (HyperX Virtual Surround Sound)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.01.15-22.09.31:465][370]LogInit: FAudioDevice initialized.
+[2020.01.15-22.09.31:474][370]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.15-22.09.31:474][370]LogLoad: Game class is 'GameModeBase'
+[2020.01.15-22.09.31:476][370]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMenuMap.MainMenuMap up for play (max tick rate 0) at 2020.01.16-09.09.31
+[2020.01.15-22.09.31:476][370]LogWorld: Bringing up level for play took: 0.000805
+[2020.01.15-22.09.31:476][370]LogOnline: OSS: Creating online subsystem instance for: :Context_26
+[2020.01.15-22.09.31:479][370]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(723)]!
+[2020.01.15-22.09.31:481][370]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_MainMenuMap 2.434
+[2020.01.15-22.09.31:481][370]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/MainMenuMap.MainMenuMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenuMap.MainMenuMap:PersistentLevel.MainMenuMap' with GeneratedClass '/Game/Maps/MainMenuMap.MainMenuMap_C' with ClassGeneratedBy '/Game/Maps/MainMenuMap.MainMenuMap:PersistentLevel.MainMenuMap'
+[2020.01.15-22.09.33:580][582]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(723)]!
+[2020.01.15-22.09.33:580][582]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.15-22.09.35:968][832]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.15-22.09.38:214][ 67]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.15-22.09.45:999][897]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/MainMenuMap.MainMenuMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenuMap.MainMenuMap:PersistentLevel.MainMenuMap' with GeneratedClass '/Game/Maps/MainMenuMap.MainMenuMap_C' with ClassGeneratedBy '/Game/Maps/MainMenuMap.MainMenuMap:PersistentLevel.MainMenuMap'
+[2020.01.15-22.09.46:004][897]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.15-22.09.46:004][897]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MainMenuMap
+[2020.01.15-22.09.46:014][897]LogSlate: Window 'OPC Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.01.15-22.09.46:061][897]LogWorld: UWorld::CleanupWorld for MainMenuMap, bSessionEnded=true, bCleanupResources=true
+[2020.01.15-22.09.46:067][897]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.15-22.09.46:067][897]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/MainMenuMap.MainMenuMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenuMap.MainMenuMap:PersistentLevel.MainMenuMap' with GeneratedClass '/Game/Maps/MainMenuMap.MainMenuMap_C' with ClassGeneratedBy '/Game/Maps/MainMenuMap.MainMenuMap:PersistentLevel.MainMenuMap'
+[2020.01.15-22.09.46:120][897]LogUObjectHash: Compacting FUObjectHashTables data took   3.10ms
+[2020.01.15-22.09.46:138][898]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2020.01.15-22.10.40:782][921]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.01.15-22.10.45:494][403]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.01.15-22.10.45:520][403]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/MainMenuMap.MainMenuMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenuMap.MainMenuMap:PersistentLevel.MainMenuMap' with GeneratedClass '/Game/Maps/MainMenuMap.MainMenuMap_C' with ClassGeneratedBy '/Game/Maps/MainMenuMap.MainMenuMap:PersistentLevel.MainMenuMap'
+[2020.01.15-22.10.45:520][403]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.01.15-22.10.45:523][403]LogPlayLevel: [PlayLevel] Compiling BP_MainMenuMultiuser before play...
+[2020.01.15-22.10.45:806][403]LogUObjectHash: Compacting FUObjectHashTables data took   4.49ms
+[2020.01.15-22.10.45:806][403]LogPlayLevel: PlayLevel: Blueprint regeneration took 285 ms (1 blueprints)
+[2020.01.15-22.10.45:806][403]LogHMD: Initializing OVRPlugin session
+[2020.01.15-22.10.45:878][403]LogHMD: Allocating Oculus 3296 x 1776 rendertarget swapchain
+[2020.01.15-22.10.45:879][403]PIE: New page: PIE session: MainMenuMap (Jan 16, 2020, 8:10:45 PM)
+[2020.01.15-22.10.45:879][403]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMenuMap
+[2020.01.15-22.10.45:882][403]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002414s)
+[2020.01.15-22.10.45:883][403]LogAIModule: Creating AISystem for world MainMenuMap
+[2020.01.15-22.10.45:883][403]LogPlayLevel: PIE: World Init took: (0.000860s)
+[2020.01.15-22.10.45:883][403]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenuMap.MainMenuMap to /Game/Maps/UEDPIE_0_MainMenuMap.MainMenuMap (0.003387s)
+[2020.01.15-22.10.45:923][403]LogUObjectHash: Compacting FUObjectHashTables data took   3.07ms
+[2020.01.15-22.10.45:968][403]LogInit: XAudio2 using 'Headset Earphone (HyperX Virtual Surround Sound)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.01.15-22.10.45:982][403]LogInit: FAudioDevice initialized.
+[2020.01.15-22.10.45:991][403]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.15-22.10.45:991][403]LogLoad: Game class is 'GameModeBase'
+[2020.01.15-22.10.45:992][403]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMenuMap.MainMenuMap up for play (max tick rate 0) at 2020.01.16-09.10.45
+[2020.01.15-22.10.45:993][403]LogWorld: Bringing up level for play took: 0.000895
+[2020.01.15-22.10.45:993][403]LogOnline: OSS: Creating online subsystem instance for: :Context_27
+[2020.01.15-22.10.45:996][403]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(723)]!
+[2020.01.15-22.10.45:997][403]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_MainMenuMap 0.952
+[2020.01.15-22.10.45:998][403]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/MainMenuMap.MainMenuMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenuMap.MainMenuMap:PersistentLevel.MainMenuMap' with GeneratedClass '/Game/Maps/MainMenuMap.MainMenuMap_C' with ClassGeneratedBy '/Game/Maps/MainMenuMap.MainMenuMap:PersistentLevel.MainMenuMap'
+[2020.01.15-22.10.46:907][499]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(723)]!
+[2020.01.15-22.10.46:907][499]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.15-22.10.48:267][650]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.15-22.10.48:971][728]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(723)]!
+[2020.01.15-22.10.49:858][826]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(723)]!
+[2020.01.15-22.10.49:858][826]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.15-22.10.50:614][910]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.15-22.10.51:669][ 30]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/MainMenuMap.MainMenuMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenuMap.MainMenuMap:PersistentLevel.MainMenuMap' with GeneratedClass '/Game/Maps/MainMenuMap.MainMenuMap_C' with ClassGeneratedBy '/Game/Maps/MainMenuMap.MainMenuMap:PersistentLevel.MainMenuMap'
+[2020.01.15-22.10.51:673][ 30]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.15-22.10.51:673][ 30]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MainMenuMap
+[2020.01.15-22.10.51:683][ 30]LogSlate: Window 'OPC Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.01.15-22.10.51:730][ 30]LogWorld: UWorld::CleanupWorld for MainMenuMap, bSessionEnded=true, bCleanupResources=true
+[2020.01.15-22.10.51:736][ 30]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.15-22.10.51:736][ 30]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/MainMenuMap.MainMenuMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenuMap.MainMenuMap:PersistentLevel.MainMenuMap' with GeneratedClass '/Game/Maps/MainMenuMap.MainMenuMap_C' with ClassGeneratedBy '/Game/Maps/MainMenuMap.MainMenuMap:PersistentLevel.MainMenuMap'
+[2020.01.15-22.10.51:789][ 30]LogUObjectHash: Compacting FUObjectHashTables data took   3.03ms
+[2020.01.15-22.10.51:816][ 31]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2020.01.15-22.11.06:177][586]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/UI/MainMenu/BP_ServerEntry.BP_ServerEntry
+[2020.01.15-22.13.04:011][941]BlueprintLog: New page: Compile BP_ServerEntry
+[2020.01.15-22.13.04:283][941]LogUObjectHash: Compacting FUObjectHashTables data took   4.31ms
+[2020.01.15-22.13.04:770][980]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainMenu/BP_ServerEntry" FILE="F:/OpenCollab/OpenCollab/OPC/Content/UI/MainMenu/BP_ServerEntry.uasset" SILENT=true
+[2020.01.15-22.13.04:778][980]LogSavePackage: Moving 'F:/OpenCollab/OpenCollab/OPC/Saved/BP_ServerEntryB50A6C84443837831A3927B76DD52D61.tmp' to 'F:/OpenCollab/OpenCollab/OPC/Content/UI/MainMenu/BP_ServerEntry.uasset'
+[2020.01.15-22.13.10:111][508]LogUObjectHash: Compacting FUObjectHashTables data took   4.58ms
+[2020.01.15-22.13.10:135][508]LogMetaData: Removing '/Game/UI/MainMenu/BP_ServerListEntry.SKEL_BP_ServerListEntry_C' ref from Metadata '/Game/UI/MainMenu/BP_ServerEntry.PackageMetaData'
+[2020.01.15-22.13.10:135][508]LogMetaData: Removing '/Game/UI/MainMenu/BP_ServerListEntry.BP_ServerListEntry_C' ref from Metadata '/Game/UI/MainMenu/BP_ServerEntry.PackageMetaData'
+[2020.01.15-22.13.10:135][508]LogMetaData: Removing '/Game/UI/MainMenu/BP_ServerListEntry.BP_ServerListEntry:EventGraph.K2Node_Event_0' ref from Metadata '/Game/UI/MainMenu/BP_ServerEntry.PackageMetaData'
+[2020.01.15-22.13.10:135][508]LogMetaData: Removing '/Game/UI/MainMenu/BP_ServerListEntry.BP_ServerListEntry:EventGraph.K2Node_Event_1' ref from Metadata '/Game/UI/MainMenu/BP_ServerEntry.PackageMetaData'
+[2020.01.15-22.13.10:135][508]LogMetaData: Removing '/Game/UI/MainMenu/BP_ServerListEntry.BP_ServerListEntry:EventGraph.K2Node_Event_2' ref from Metadata '/Game/UI/MainMenu/BP_ServerEntry.PackageMetaData'
+[2020.01.15-22.13.10:243][508]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainMenu/BP_ServerListEntry" FILE="F:/OpenCollab/OpenCollab/OPC/Content/UI/MainMenu/BP_ServerListEntry.uasset" SILENT=true
+[2020.01.15-22.13.10:252][508]LogSavePackage: Moving 'F:/OpenCollab/OpenCollab/OPC/Saved/BP_ServerListEntry5C30A27643873F7958FD9AA7BA1E5520.tmp' to 'F:/OpenCollab/OpenCollab/OPC/Content/UI/MainMenu/BP_ServerListEntry.uasset'
+[2020.01.15-22.13.10:634][508]LogUObjectHash: Compacting FUObjectHashTables data took   3.77ms
+[2020.01.15-22.13.10:722][508]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
+[2020.01.15-22.13.10:765][508]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2020.01.15-22.13.12:295][652]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainMenu/BP_MainMenuOpeningScreen" FILE="F:/OpenCollab/OpenCollab/OPC/Content/UI/MainMenu/BP_MainMenuOpeningScreen.uasset" SILENT=true
+[2020.01.15-22.13.12:315][652]LogSavePackage: Moving 'F:/OpenCollab/OpenCollab/OPC/Saved/BP_MainMenuOpeningScreen352641FD4BE2FE3E79067FA8DB2A159F.tmp' to 'F:/OpenCollab/OpenCollab/OPC/Content/UI/MainMenu/BP_MainMenuOpeningScreen.uasset'
+[2020.01.15-22.13.13:077][718]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainMenu/BP_MainMenuMultiuser" FILE="F:/OpenCollab/OpenCollab/OPC/Content/UI/MainMenu/BP_MainMenuMultiuser.uasset" SILENT=true
+[2020.01.15-22.13.13:100][718]LogSavePackage: Moving 'F:/OpenCollab/OpenCollab/OPC/Saved/BP_MainMenuMultiuser3BA6D6644021059A49953AB983766AF6.tmp' to 'F:/OpenCollab/OpenCollab/OPC/Content/UI/MainMenu/BP_MainMenuMultiuser.uasset'
+[2020.01.15-22.13.20:797][578]BlueprintLog: New page: Compile BP_MainMenuMultiuser
+[2020.01.15-22.13.21:069][578]LogUObjectHash: Compacting FUObjectHashTables data took   3.95ms
+[2020.01.15-22.13.21:529][621]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainMenu/BP_MainMenuMultiuser" FILE="F:/OpenCollab/OpenCollab/OPC/Content/UI/MainMenu/BP_MainMenuMultiuser.uasset" SILENT=true
+[2020.01.15-22.13.21:551][621]LogSavePackage: Moving 'F:/OpenCollab/OpenCollab/OPC/Saved/BP_MainMenuMultiuser36BBB8E24CB0FB5531CC149352ABAA1B.tmp' to 'F:/OpenCollab/OpenCollab/OPC/Content/UI/MainMenu/BP_MainMenuMultiuser.uasset'
+[2020.01.15-22.13.31:516][763]BlueprintLog: New page: Compile BP_MainMenuOpeningScreen
+[2020.01.15-22.13.31:799][763]LogUObjectHash: Compacting FUObjectHashTables data took   4.46ms
+[2020.01.15-22.13.32:199][797]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainMenu/BP_MainMenuOpeningScreen" FILE="F:/OpenCollab/OpenCollab/OPC/Content/UI/MainMenu/BP_MainMenuOpeningScreen.uasset" SILENT=true
+[2020.01.15-22.13.32:218][797]LogSavePackage: Moving 'F:/OpenCollab/OpenCollab/OPC/Saved/BP_MainMenuOpeningScreen8B5C570C42E392BF53876B9061D0BD5C.tmp' to 'F:/OpenCollab/OpenCollab/OPC/Content/UI/MainMenu/BP_MainMenuOpeningScreen.uasset'
+[2020.01.15-22.13.33:249][907]BlueprintLog: New page: Compile BP_MainMenuPawn
+[2020.01.15-22.13.33:520][907]LogUObjectHash: Compacting FUObjectHashTables data took   4.38ms
+[2020.01.15-22.13.33:904][940]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerBPs/BP_MainMenuPawn" FILE="F:/OpenCollab/OpenCollab/OPC/Content/PlayerBPs/BP_MainMenuPawn.uasset" SILENT=true
+[2020.01.15-22.13.33:917][940]LogSavePackage: Moving 'F:/OpenCollab/OpenCollab/OPC/Saved/BP_MainMenuPawnE657F8004E397769B5B8D1918D35B3F4.tmp' to 'F:/OpenCollab/OpenCollab/OPC/Content/PlayerBPs/BP_MainMenuPawn.uasset'
+[2020.01.15-22.14.14:774][581]BlueprintLog: New page: Compile BP_MainMenuOpeningScreen
+[2020.01.15-22.14.15:051][581]LogUObjectHash: Compacting FUObjectHashTables data took   4.34ms
+[2020.01.15-22.14.15:520][628]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.01.15-22.14.15:542][628]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/MainMenuMap.MainMenuMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenuMap.MainMenuMap:PersistentLevel.MainMenuMap' with GeneratedClass '/Game/Maps/MainMenuMap.MainMenuMap_C' with ClassGeneratedBy '/Game/Maps/MainMenuMap.MainMenuMap:PersistentLevel.MainMenuMap'
+[2020.01.15-22.14.15:542][628]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.15-22.14.15:542][628]LogHMD: Initializing OVRPlugin session
+[2020.01.15-22.14.15:614][628]LogHMD: Allocating Oculus 3296 x 1776 rendertarget swapchain
+[2020.01.15-22.14.15:614][628]PIE: New page: PIE session: MainMenuMap (Jan 16, 2020, 8:14:15 PM)
+[2020.01.15-22.14.15:615][628]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMenuMap
+[2020.01.15-22.14.15:617][628]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002208s)
+[2020.01.15-22.14.15:618][628]LogAIModule: Creating AISystem for world MainMenuMap
+[2020.01.15-22.14.15:618][628]LogPlayLevel: PIE: World Init took: (0.000822s)
+[2020.01.15-22.14.15:618][628]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenuMap.MainMenuMap to /Game/Maps/UEDPIE_0_MainMenuMap.MainMenuMap (0.003138s)
+[2020.01.15-22.14.15:664][628]LogUObjectHash: Compacting FUObjectHashTables data took   4.66ms
+[2020.01.15-22.14.15:710][628]LogInit: XAudio2 using 'Headset Earphone (HyperX Virtual Surround Sound)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.01.15-22.14.15:723][628]LogInit: FAudioDevice initialized.
+[2020.01.15-22.14.15:732][628]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.15-22.14.15:732][628]LogLoad: Game class is 'GameModeBase'
+[2020.01.15-22.14.15:734][628]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMenuMap.MainMenuMap up for play (max tick rate 0) at 2020.01.16-09.14.15
+[2020.01.15-22.14.15:734][628]LogWorld: Bringing up level for play took: 0.000883
+[2020.01.15-22.14.15:734][628]LogOnline: OSS: Creating online subsystem instance for: :Context_30
+[2020.01.15-22.14.15:737][628]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(723)]!
+[2020.01.15-22.14.15:739][628]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_MainMenuMap 0.693
+[2020.01.15-22.14.15:739][628]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/MainMenuMap.MainMenuMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenuMap.MainMenuMap:PersistentLevel.MainMenuMap' with GeneratedClass '/Game/Maps/MainMenuMap.MainMenuMap_C' with ClassGeneratedBy '/Game/Maps/MainMenuMap.MainMenuMap:PersistentLevel.MainMenuMap'
+[2020.01.15-22.14.16:724][724]LogBlueprintUserMessages: [BP_MainMenuOpeningScreen_C_0] Idi nahui!
+[2020.01.15-22.14.16:724][724]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.15-22.14.17:946][850]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/MainMenuMap.MainMenuMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenuMap.MainMenuMap:PersistentLevel.MainMenuMap' with GeneratedClass '/Game/Maps/MainMenuMap.MainMenuMap_C' with ClassGeneratedBy '/Game/Maps/MainMenuMap.MainMenuMap:PersistentLevel.MainMenuMap'
+[2020.01.15-22.14.17:952][850]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.15-22.14.17:952][850]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MainMenuMap
+[2020.01.15-22.14.17:962][850]LogSlate: Window 'OPC Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.01.15-22.14.18:012][850]LogWorld: UWorld::CleanupWorld for MainMenuMap, bSessionEnded=true, bCleanupResources=true
+[2020.01.15-22.14.18:021][850]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.15-22.14.18:021][850]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/MainMenuMap.MainMenuMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenuMap.MainMenuMap:PersistentLevel.MainMenuMap' with GeneratedClass '/Game/Maps/MainMenuMap.MainMenuMap_C' with ClassGeneratedBy '/Game/Maps/MainMenuMap.MainMenuMap:PersistentLevel.MainMenuMap'
+[2020.01.15-22.14.18:070][850]LogUObjectHash: Compacting FUObjectHashTables data took   3.35ms
+[2020.01.15-22.14.18:093][851]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2020.01.15-22.14.18:798][932]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.01.15-22.14.18:820][932]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/MainMenuMap.MainMenuMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenuMap.MainMenuMap:PersistentLevel.MainMenuMap' with GeneratedClass '/Game/Maps/MainMenuMap.MainMenuMap_C' with ClassGeneratedBy '/Game/Maps/MainMenuMap.MainMenuMap:PersistentLevel.MainMenuMap'
+[2020.01.15-22.14.18:820][932]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.15-22.14.18:821][932]LogHMD: Initializing OVRPlugin session
+[2020.01.15-22.14.18:894][932]LogHMD: Allocating Oculus 3296 x 1776 rendertarget swapchain
+[2020.01.15-22.14.18:895][932]PIE: New page: PIE session: MainMenuMap (Jan 16, 2020, 8:14:18 PM)
+[2020.01.15-22.14.18:895][932]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMenuMap
+[2020.01.15-22.14.18:897][932]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002371s)
+[2020.01.15-22.14.18:898][932]LogAIModule: Creating AISystem for world MainMenuMap
+[2020.01.15-22.14.18:898][932]LogPlayLevel: PIE: World Init took: (0.000842s)
+[2020.01.15-22.14.18:898][932]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenuMap.MainMenuMap to /Game/Maps/UEDPIE_0_MainMenuMap.MainMenuMap (0.003334s)
+[2020.01.15-22.14.18:940][932]LogUObjectHash: Compacting FUObjectHashTables data took   3.23ms
+[2020.01.15-22.14.18:986][932]LogInit: XAudio2 using 'Headset Earphone (HyperX Virtual Surround Sound)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.01.15-22.14.18:999][932]LogInit: FAudioDevice initialized.
+[2020.01.15-22.14.19:007][932]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.15-22.14.19:008][932]LogLoad: Game class is 'GameModeBase'
+[2020.01.15-22.14.19:009][932]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMenuMap.MainMenuMap up for play (max tick rate 0) at 2020.01.16-09.14.19
+[2020.01.15-22.14.19:009][932]LogWorld: Bringing up level for play took: 0.001045
+[2020.01.15-22.14.19:010][932]LogOnline: OSS: Creating online subsystem instance for: :Context_31
+[2020.01.15-22.14.19:012][932]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(723)]!
+[2020.01.15-22.14.19:015][932]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_MainMenuMap -0.032
+[2020.01.15-22.14.19:015][932]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/MainMenuMap.MainMenuMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenuMap.MainMenuMap:PersistentLevel.MainMenuMap' with GeneratedClass '/Game/Maps/MainMenuMap.MainMenuMap_C' with ClassGeneratedBy '/Game/Maps/MainMenuMap.MainMenuMap:PersistentLevel.MainMenuMap'
+[2020.01.15-22.14.22:785][319]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.15-22.14.24:204][463]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(723)]!
+[2020.01.15-22.14.25:089][555]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.15-22.14.27:245][783]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(723)]!
+[2020.01.15-22.14.28:215][882]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(723)]!
+[2020.01.15-22.14.28:215][882]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.15-22.14.29:018][965]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/MainMenuMap.MainMenuMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenuMap.MainMenuMap:PersistentLevel.MainMenuMap' with GeneratedClass '/Game/Maps/MainMenuMap.MainMenuMap_C' with ClassGeneratedBy '/Game/Maps/MainMenuMap.MainMenuMap:PersistentLevel.MainMenuMap'
+[2020.01.15-22.14.29:022][965]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.15-22.14.29:022][965]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MainMenuMap
+[2020.01.15-22.14.29:032][965]LogSlate: Window 'OPC Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.01.15-22.14.29:080][965]LogWorld: UWorld::CleanupWorld for MainMenuMap, bSessionEnded=true, bCleanupResources=true
+[2020.01.15-22.14.29:089][965]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.15-22.14.29:089][965]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/MainMenuMap.MainMenuMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenuMap.MainMenuMap:PersistentLevel.MainMenuMap' with GeneratedClass '/Game/Maps/MainMenuMap.MainMenuMap_C' with ClassGeneratedBy '/Game/Maps/MainMenuMap.MainMenuMap:PersistentLevel.MainMenuMap'
+[2020.01.15-22.14.29:139][965]LogUObjectHash: Compacting FUObjectHashTables data took   3.08ms
+[2020.01.15-22.14.29:161][966]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2020.01.15-22.14.41:329][385]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainMenu/BP_MainMenuOpeningScreen" FILE="F:/OpenCollab/OpenCollab/OPC/Content/UI/MainMenu/BP_MainMenuOpeningScreen.uasset" SILENT=true
+[2020.01.15-22.14.41:348][385]LogSavePackage: Moving 'F:/OpenCollab/OpenCollab/OPC/Saved/BP_MainMenuOpeningScreen2002243045397F58364AE1806BF93B5F.tmp' to 'F:/OpenCollab/OpenCollab/OPC/Content/UI/MainMenu/BP_MainMenuOpeningScreen.uasset'
+[2020.01.15-22.14.45:552][843]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainMenuMap" FILE="F:/OpenCollab/OpenCollab/OPC/Content/Maps/MainMenuMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.01.15-22.14.45:593][843]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2020.01.15-22.14.45:934][843]LogSavePackage: Moving 'F:/OpenCollab/OpenCollab/OPC/Saved/MainMenuMap7D0B004A44351FC1B7F491B77A7CBC00.tmp' to 'F:/OpenCollab/OpenCollab/OPC/Content/Maps/MainMenuMap.umap'
+[2020.01.15-22.14.45:963][843]LogFileHelpers: Saving map 'MainMenuMap' took 0.412
+[2020.01.15-22.14.46:711][921]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.01.15-22.14.47:766][ 19]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.01.15-22.14.50:682][262]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.01.15-22.14.52:791][262]LogSlate: Window 'New Level' being destroyed
+[2020.01.15-22.14.52:838][262]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/VR-Basic.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.01.15-22.14.52:859][262]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.01.15-22.14.52:907][262]LightingResults: New page: Lighting Build
+[2020.01.15-22.14.52:907][262]LoadErrors: New page: Loading map: VR-Basic.umap
+[2020.01.15-22.14.52:908][262]LogWorld: UWorld::CleanupWorld for MainMenuMap, bSessionEnded=true, bCleanupResources=true
+[2020.01.15-22.14.52:908][262]MapCheck: New page: Map Check
+[2020.01.15-22.14.52:908][262]LightingResults: New page: Lighting Build
+[2020.01.15-22.14.52:959][262]LogUObjectHash: Compacting FUObjectHashTables data took   4.03ms
+[2020.01.15-22.14.53:251][262]LogAIModule: Creating AISystem for world Untitled_2
+[2020.01.15-22.14.53:321][262]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.01.15-22.14.53:367][262]LogUObjectHash: Compacting FUObjectHashTables data took   3.16ms
+[2020.01.15-22.14.53:414][262]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.01.15-22.14.53:414][262]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.121ms to complete.
+[2020.01.15-22.14.53:414][262]LogFileHelpers: Loading map 'VR-Basic' took 0.577
+[2020.01.15-22.14.54:838][416]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2020.01.15-22.14.58:105][773]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.15-22.15.00:811][ 45]Cmd: EDIT COPY
+[2020.01.15-22.15.03:608][350]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2020.01.15-22.15.04:767][478]Cmd: EDIT COPY
+[2020.01.15-22.15.05:086][511]Cmd: EDIT PASTE
+[2020.01.15-22.15.05:096][511]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2020.01.15-22.15.07:415][773]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2020.01.15-22.15.09:891][ 49]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2020.01.15-22.15.10:941][163]Cmd: EDIT COPY
+[2020.01.15-22.15.11:167][188]Cmd: EDIT PASTE
+[2020.01.15-22.15.11:171][188]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2020.01.15-22.15.16:276][771]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2020.01.15-22.15.18:641][ 34]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2020.01.15-22.15.19:849][166]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.15-22.15.19:926][175]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.01.15-22.15.19:951][175]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Temp/Untitled_2.Untitled_2:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_2.Untitled_2:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_2.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_2.Untitled_2:PersistentLevel.Untitled'
+[2020.01.15-22.15.19:951][175]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.15-22.15.19:951][175]LogHMD: Initializing OVRPlugin session
+[2020.01.15-22.15.20:024][175]LogHMD: Allocating Oculus 3296 x 1776 rendertarget swapchain
+[2020.01.15-22.15.20:025][175]PIE: New page: PIE session: Untitled_2 (Jan 16, 2020, 8:15:20 PM)
+[2020.01.15-22.15.20:026][175]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_2
+[2020.01.15-22.15.20:031][175]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004771s)
+[2020.01.15-22.15.20:031][175]LogAIModule: Creating AISystem for world Untitled_2
+[2020.01.15-22.15.20:032][175]LogPlayLevel: PIE: World Init took: (0.000965s)
+[2020.01.15-22.15.20:032][175]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_2.Untitled_2 to /Temp/UEDPIE_0_Untitled_2.Untitled_2 (0.005981s)
+[2020.01.15-22.15.20:078][175]LogUObjectHash: Compacting FUObjectHashTables data took   3.17ms
+[2020.01.15-22.15.20:124][175]LogInit: XAudio2 using 'Headset Earphone (HyperX Virtual Surround Sound)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.01.15-22.15.20:137][175]LogInit: FAudioDevice initialized.
+[2020.01.15-22.15.20:146][175]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.15-22.15.20:146][175]LogLoad: Game class is 'GameModeBase'
+[2020.01.15-22.15.20:148][175]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_2.Untitled_2 up for play (max tick rate 0) at 2020.01.16-09.15.20
+[2020.01.15-22.15.20:148][175]LogWorld: Bringing up level for play took: 0.001609
+[2020.01.15-22.15.20:149][175]LogOnline: OSS: Creating online subsystem instance for: :Context_32
+[2020.01.15-22.15.20:176][175]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_2 1.13
+[2020.01.15-22.15.20:177][175]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Temp/Untitled_2.Untitled_2:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_2.Untitled_2:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_2.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_2.Untitled_2:PersistentLevel.Untitled'
+[2020.01.15-22.15.22:904][439]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Temp/Untitled_2.Untitled_2:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_2.Untitled_2:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_2.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_2.Untitled_2:PersistentLevel.Untitled'
+[2020.01.15-22.15.22:909][439]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.15-22.15.22:909][439]LogWorld: BeginTearingDown for /Temp/UEDPIE_0_Untitled_2
+[2020.01.15-22.15.22:919][439]LogSlate: Window 'OPC Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.01.15-22.15.22:966][439]LogWorld: UWorld::CleanupWorld for Untitled_2, bSessionEnded=true, bCleanupResources=true
+[2020.01.15-22.15.22:976][439]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.15-22.15.22:976][439]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Temp/Untitled_2.Untitled_2:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_2.Untitled_2:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_2.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_2.Untitled_2:PersistentLevel.Untitled'
+[2020.01.15-22.15.23:028][439]LogUObjectHash: Compacting FUObjectHashTables data took   3.14ms
+[2020.01.15-22.15.23:049][440]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2020.01.15-22.15.25:240][691]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.15-22.15.30:232][179]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.01.15-22.15.35:428][637]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.01.15-22.15.37:362][637]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.01.15-22.16.01:783][132]LogSlate: Window 'Save Level As' being destroyed
+[2020.01.15-22.16.01:953][132]LogUObjectHash: Compacting FUObjectHashTables data took   4.92ms
+[2020.01.15-22.16.01:956][132]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/TestingMap" FILE="F:/OpenCollab/OpenCollab/OPC/Content/Maps/TestingMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.01.15-22.16.02:003][132]LogUObjectHash: Compacting FUObjectHashTables data took   3.20ms
+[2020.01.15-22.16.02:257][132]LogSavePackage: Moving 'F:/OpenCollab/OpenCollab/OPC/Saved/TestingMap454215E14640C5DE462E9AB17C001280.tmp' to 'F:/OpenCollab/OpenCollab/OPC/Content/Maps/TestingMap.umap'
+[2020.01.15-22.16.02:282][132]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/TestingMap_BuiltData" FILE="F:/OpenCollab/OpenCollab/OPC/Content/Maps/TestingMap_BuiltData.uasset" SILENT=true
+[2020.01.15-22.16.02:357][132]LogSavePackage: Moving 'F:/OpenCollab/OpenCollab/OPC/Saved/TestingMap_BuiltData9F15002B4A9D4F6F33B415BE92040506.tmp' to 'F:/OpenCollab/OpenCollab/OPC/Content/Maps/TestingMap_BuiltData.uasset'
+[2020.01.15-22.16.02:406][132]LogFileHelpers: Saving map 'TestingMap' took 0.574
+[2020.01.15-22.16.13:917][231]LogUObjectHash: Compacting FUObjectHashTables data took   3.55ms
+[2020.01.15-22.16.13:918][231]LogMetaData: Removing '/Game/Maps/BasicTestingMap.SKEL_BasicTestingMap_C' ref from Metadata '/Game/Maps/TestingMap.PackageMetaData'
+[2020.01.15-22.16.13:918][231]LogMetaData: Removing '/Game/Maps/BasicTestingMap.BasicTestingMap_C' ref from Metadata '/Game/Maps/TestingMap.PackageMetaData'
+[2020.01.15-22.16.13:918][231]LogMetaData: Removing '/Game/Maps/BasicTestingMap.BasicTestingMap:PersistentLevel.BasicTestingMap.EventGraph.K2Node_Event_0' ref from Metadata '/Game/Maps/TestingMap.PackageMetaData'
+[2020.01.15-22.16.13:918][231]LogMetaData: Removing '/Game/Maps/BasicTestingMap.BasicTestingMap:PersistentLevel.BasicTestingMap.EventGraph.K2Node_Event_1' ref from Metadata '/Game/Maps/TestingMap.PackageMetaData'
+[2020.01.15-22.16.14:022][231]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/BasicTestingMap_BuiltData" FILE="F:/OpenCollab/OpenCollab/OPC/Content/Maps/BasicTestingMap_BuiltData.uasset" SILENT=true
+[2020.01.15-22.16.14:025][231]LogSavePackage: Moving 'F:/OpenCollab/OpenCollab/OPC/Saved/BasicTestingMap_BuiltData469E00504ADC2F9D0B4A6BB7B571D5C9.tmp' to 'F:/OpenCollab/OpenCollab/OPC/Content/Maps/BasicTestingMap_BuiltData.uasset'
+[2020.01.15-22.16.14:030][231]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/BasicTestingMap" FILE="F:/OpenCollab/OpenCollab/OPC/Content/Maps/BasicTestingMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.01.15-22.16.14:188][231]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
+[2020.01.15-22.16.14:441][231]LogSavePackage: Moving 'F:/OpenCollab/OpenCollab/OPC/Saved/BasicTestingMap771026884EE5DD9D9C2928ABD88B291F.tmp' to 'F:/OpenCollab/OpenCollab/OPC/Content/Maps/BasicTestingMap.umap'
+[2020.01.15-22.16.14:462][231]LogFileHelpers: Saving map 'BasicTestingMap' took 0.432
+[2020.01.15-22.16.14:975][231]LogUObjectHash: Compacting FUObjectHashTables data took   3.15ms
+[2020.01.15-22.16.15:016][231]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2020.01.15-22.16.15:103][231]LogUObjectHash: Compacting FUObjectHashTables data took   2.91ms
+[2020.01.15-22.16.15:144][231]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2020.01.15-22.16.33:382][926]LogUObjectHash: Compacting FUObjectHashTables data took   3.66ms
+[2020.01.15-22.16.41:317][650]LogUObjectHash: Compacting FUObjectHashTables data took   3.68ms
+[2020.01.15-22.16.41:318][650]LogMetaData: Removing '/Game/UI/MainMenu/BP_LoadingScreen.SKEL_BP_LoadingScreen_C' ref from Metadata '/Game/UI/MainMenu/BP_BlurredBG_Template.PackageMetaData'
+[2020.01.15-22.16.41:318][650]LogMetaData: Removing '/Game/UI/MainMenu/BP_LoadingScreen.BP_LoadingScreen_C' ref from Metadata '/Game/UI/MainMenu/BP_BlurredBG_Template.PackageMetaData'
+[2020.01.15-22.16.41:423][650]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainMenu/BP_LoadingScreen" FILE="F:/OpenCollab/OpenCollab/OPC/Content/UI/MainMenu/BP_LoadingScreen.uasset" SILENT=true
+[2020.01.15-22.16.41:431][650]LogSavePackage: Moving 'F:/OpenCollab/OpenCollab/OPC/Saved/BP_LoadingScreenCB4BB41B48BE8983E957A184D0C670ED.tmp' to 'F:/OpenCollab/OpenCollab/OPC/Content/UI/MainMenu/BP_LoadingScreen.uasset'
+[2020.01.15-22.16.41:813][650]LogUObjectHash: Compacting FUObjectHashTables data took   3.42ms
+[2020.01.15-22.16.41:902][650]LogUObjectHash: Compacting FUObjectHashTables data took   2.87ms
+[2020.01.15-22.16.41:945][650]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2020.01.15-22.16.44:730][900]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/UI/MainMenu/BP_LoadingScreen.BP_LoadingScreen
+[2020.01.15-22.26.38:952][481]BlueprintLog: New page: Compile BP_LoadingScreen
+[2020.01.15-22.26.39:003][481]LogUObjectHash: Compacting FUObjectHashTables data took   4.89ms
+[2020.01.15-22.26.39:586][528]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainMenu/BP_LoadingScreen" FILE="F:/OpenCollab/OpenCollab/OPC/Content/UI/MainMenu/BP_LoadingScreen.uasset" SILENT=true
+[2020.01.15-22.26.39:602][528]LogSavePackage: Moving 'F:/OpenCollab/OpenCollab/OPC/Saved/BP_LoadingScreen58D6677D46618B900410ABB1EEEC0BD6.tmp' to 'F:/OpenCollab/OpenCollab/OPC/Content/UI/MainMenu/BP_LoadingScreen.uasset'
+[2020.01.15-22.26.41:647][712]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/BasicTestingMap" FILE="F:/OpenCollab/OpenCollab/OPC/Content/Maps/BasicTestingMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.01.15-22.26.41:695][712]LogUObjectHash: Compacting FUObjectHashTables data took   3.99ms
+[2020.01.15-22.26.41:950][712]LogSavePackage: Moving 'F:/OpenCollab/OpenCollab/OPC/Saved/BasicTestingMap434C6265478881C730EB3F9B2FB1D7A6.tmp' to 'F:/OpenCollab/OpenCollab/OPC/Content/Maps/BasicTestingMap.umap'
+[2020.01.15-22.26.41:976][712]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/BasicTestingMap_BuiltData" FILE="F:/OpenCollab/OpenCollab/OPC/Content/Maps/BasicTestingMap_BuiltData.uasset" SILENT=true
+[2020.01.15-22.26.41:980][712]LogSavePackage: Moving 'F:/OpenCollab/OpenCollab/OPC/Saved/BasicTestingMap_BuiltDataC4735FD843C764A6DD71EC9EF5EFBF6A.tmp' to 'F:/OpenCollab/OpenCollab/OPC/Content/Maps/BasicTestingMap_BuiltData.uasset'
+[2020.01.15-22.26.50:983][491]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.01.15-22.27.08:197][  7]BlueprintLog: New page: Compile BP_MainMenuOpeningScreen
+[2020.01.15-22.27.08:255][  7]LogUObjectHash: Compacting FUObjectHashTables data took   3.86ms
+[2020.01.15-22.27.08:942][ 54]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.01.15-22.27.08:973][ 54]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/BasicTestingMap.BasicTestingMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/BasicTestingMap.BasicTestingMap:PersistentLevel.BasicTestingMap' with GeneratedClass '/Game/Maps/BasicTestingMap.BasicTestingMap_C' with ClassGeneratedBy '/Game/Maps/BasicTestingMap.BasicTestingMap:PersistentLevel.BasicTestingMap'
+[2020.01.15-22.27.08:973][ 54]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.15-22.27.08:973][ 54]LogHMD: Initializing OVRPlugin session
+[2020.01.15-22.27.09:048][ 54]LogHMD: Allocating Oculus 3296 x 1776 rendertarget swapchain
+[2020.01.15-22.27.09:049][ 54]PIE: New page: PIE session: BasicTestingMap (Jan 16, 2020, 8:27:09 PM)
+[2020.01.15-22.27.09:049][ 54]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_BasicTestingMap
+[2020.01.15-22.27.09:053][ 54]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003341s)
+[2020.01.15-22.27.09:054][ 54]LogAIModule: Creating AISystem for world BasicTestingMap
+[2020.01.15-22.27.09:054][ 54]LogPlayLevel: PIE: World Init took: (0.000915s)
+[2020.01.15-22.27.09:054][ 54]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/BasicTestingMap.BasicTestingMap to /Game/Maps/UEDPIE_0_BasicTestingMap.BasicTestingMap (0.004426s)
+[2020.01.15-22.27.09:097][ 54]LogUObjectHash: Compacting FUObjectHashTables data took   4.43ms
+[2020.01.15-22.27.09:143][ 54]LogInit: XAudio2 using 'Headset Earphone (HyperX Virtual Surround Sound)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.01.15-22.27.09:157][ 54]LogInit: FAudioDevice initialized.
+[2020.01.15-22.27.09:165][ 54]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.15-22.27.09:165][ 54]LogLoad: Game class is 'GameModeBase'
+[2020.01.15-22.27.09:167][ 54]LogWorld: Bringing World /Game/Maps/UEDPIE_0_BasicTestingMap.BasicTestingMap up for play (max tick rate 0) at 2020.01.16-09.27.09
+[2020.01.15-22.27.09:167][ 54]LogWorld: Bringing up level for play took: 0.001760
+[2020.01.15-22.27.09:168][ 54]LogOnline: OSS: Creating online subsystem instance for: :Context_35
+[2020.01.15-22.27.09:172][ 54]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_BasicTestingMap 0.126
+[2020.01.15-22.27.09:173][ 54]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/BasicTestingMap.BasicTestingMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/BasicTestingMap.BasicTestingMap:PersistentLevel.BasicTestingMap' with GeneratedClass '/Game/Maps/BasicTestingMap.BasicTestingMap_C' with ClassGeneratedBy '/Game/Maps/BasicTestingMap.BasicTestingMap:PersistentLevel.BasicTestingMap'
+[2020.01.15-22.27.10:748][175]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/BasicTestingMap.BasicTestingMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/BasicTestingMap.BasicTestingMap:PersistentLevel.BasicTestingMap' with GeneratedClass '/Game/Maps/BasicTestingMap.BasicTestingMap_C' with ClassGeneratedBy '/Game/Maps/BasicTestingMap.BasicTestingMap:PersistentLevel.BasicTestingMap'
+[2020.01.15-22.27.10:753][175]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.15-22.27.10:753][175]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_BasicTestingMap
+[2020.01.15-22.27.10:763][175]LogSlate: Window 'OPC Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.01.15-22.27.10:811][175]LogWorld: UWorld::CleanupWorld for BasicTestingMap, bSessionEnded=true, bCleanupResources=true
+[2020.01.15-22.27.10:819][175]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.15-22.27.10:819][175]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/BasicTestingMap.BasicTestingMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/BasicTestingMap.BasicTestingMap:PersistentLevel.BasicTestingMap' with GeneratedClass '/Game/Maps/BasicTestingMap.BasicTestingMap_C' with ClassGeneratedBy '/Game/Maps/BasicTestingMap.BasicTestingMap:PersistentLevel.BasicTestingMap'
+[2020.01.15-22.27.10:875][175]LogUObjectHash: Compacting FUObjectHashTables data took   3.30ms
+[2020.01.15-22.27.10:902][176]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2020.01.15-22.27.14:460][487]LogAIModule: Creating AISystem for world MainMenuMap
+[2020.01.15-22.27.14:465][487]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/MainMenuMap.MainMenuMap
+[2020.01.15-22.27.14:508][487]LogUObjectHash: Compacting FUObjectHashTables data took   3.28ms
+[2020.01.15-22.27.15:560][487]LogSlate: Window 'Save Content' being destroyed
+[2020.01.15-22.27.15:612][487]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainMenu/BP_MainMenuOpeningScreen" FILE="F:/OpenCollab/OpenCollab/OPC/Content/UI/MainMenu/BP_MainMenuOpeningScreen.uasset" SILENT=true
+[2020.01.15-22.27.15:635][487]LogSavePackage: Moving 'F:/OpenCollab/OpenCollab/OPC/Saved/BP_MainMenuOpeningScreen87D8FFC34B04C434F2729BB986569BD6.tmp' to 'F:/OpenCollab/OpenCollab/OPC/Content/UI/MainMenu/BP_MainMenuOpeningScreen.uasset'
+[2020.01.15-22.27.15:638][487]Cmd: MAP LOAD FILE="F:/OpenCollab/OpenCollab/OPC/Content/Maps/MainMenuMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.01.15-22.27.15:638][487]LightingResults: New page: Lighting Build
+[2020.01.15-22.27.15:638][487]LoadErrors: New page: Loading map: MainMenuMap.umap
+[2020.01.15-22.27.15:639][487]LogWorld: UWorld::CleanupWorld for BasicTestingMap, bSessionEnded=true, bCleanupResources=true
+[2020.01.15-22.27.15:639][487]MapCheck: New page: Map Check
+[2020.01.15-22.27.15:639][487]LightingResults: New page: Lighting Build
+[2020.01.15-22.27.15:685][487]LogUObjectHash: Compacting FUObjectHashTables data took   3.64ms
+[2020.01.15-22.27.15:762][487]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.01.15-22.27.15:813][487]LogUObjectHash: Compacting FUObjectHashTables data took   3.38ms
+[2020.01.15-22.27.15:833][487]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.01.15-22.27.15:833][487]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.076ms to complete.
+[2020.01.15-22.27.15:833][487]LogFileHelpers: Loading map 'MainMenuMap' took 0.195
+[2020.01.15-22.27.17:012][584]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.01.15-22.27.17:043][584]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/MainMenuMap.MainMenuMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenuMap.MainMenuMap:PersistentLevel.MainMenuMap' with GeneratedClass '/Game/Maps/MainMenuMap.MainMenuMap_C' with ClassGeneratedBy '/Game/Maps/MainMenuMap.MainMenuMap:PersistentLevel.MainMenuMap'
+[2020.01.15-22.27.17:043][584]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.15-22.27.17:043][584]LogHMD: Initializing OVRPlugin session
+[2020.01.15-22.27.17:117][584]LogHMD: Allocating Oculus 3296 x 1776 rendertarget swapchain
+[2020.01.15-22.27.17:118][584]PIE: New page: PIE session: MainMenuMap (Jan 16, 2020, 8:27:17 PM)
+[2020.01.15-22.27.17:119][584]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMenuMap
+[2020.01.15-22.27.17:121][584]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002466s)
+[2020.01.15-22.27.17:122][584]LogAIModule: Creating AISystem for world MainMenuMap
+[2020.01.15-22.27.17:122][584]LogPlayLevel: PIE: World Init took: (0.000975s)
+[2020.01.15-22.27.17:122][584]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenuMap.MainMenuMap to /Game/Maps/UEDPIE_0_MainMenuMap.MainMenuMap (0.003559s)
+[2020.01.15-22.27.17:170][584]LogUObjectHash: Compacting FUObjectHashTables data took   3.37ms
+[2020.01.15-22.27.17:216][584]LogInit: XAudio2 using 'Headset Earphone (HyperX Virtual Surround Sound)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.01.15-22.27.17:230][584]LogInit: FAudioDevice initialized.
+[2020.01.15-22.27.17:239][584]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.15-22.27.17:240][584]LogLoad: Game class is 'GameModeBase'
+[2020.01.15-22.27.17:241][584]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMenuMap.MainMenuMap up for play (max tick rate 0) at 2020.01.16-09.27.17
+[2020.01.15-22.27.17:242][584]LogWorld: Bringing up level for play took: 0.001126
+[2020.01.15-22.27.17:242][584]LogOnline: OSS: Creating online subsystem instance for: :Context_36
+[2020.01.15-22.27.17:245][584]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(723)]!
+[2020.01.15-22.27.17:248][584]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_MainMenuMap 0.202
+[2020.01.15-22.27.17:248][584]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/MainMenuMap.MainMenuMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenuMap.MainMenuMap:PersistentLevel.MainMenuMap' with GeneratedClass '/Game/Maps/MainMenuMap.MainMenuMap_C' with ClassGeneratedBy '/Game/Maps/MainMenuMap.MainMenuMap:PersistentLevel.MainMenuMap'
+[2020.01.15-22.27.18:616][688]LogLevel: Warning: Failed to find streaming level object associated with 'BasicTestingMap'
+[2020.01.15-22.27.18:616][688]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.15-22.27.31:829][770]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/MainMenuMap.MainMenuMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenuMap.MainMenuMap:PersistentLevel.MainMenuMap' with GeneratedClass '/Game/Maps/MainMenuMap.MainMenuMap_C' with ClassGeneratedBy '/Game/Maps/MainMenuMap.MainMenuMap:PersistentLevel.MainMenuMap'
+[2020.01.15-22.27.31:833][770]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.15-22.27.31:834][770]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MainMenuMap
+[2020.01.15-22.27.31:844][770]LogSlate: Window 'OPC Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.01.15-22.27.31:891][770]LogWorld: UWorld::CleanupWorld for MainMenuMap, bSessionEnded=true, bCleanupResources=true
+[2020.01.15-22.27.31:899][770]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.15-22.27.31:900][770]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/MainMenuMap.MainMenuMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenuMap.MainMenuMap:PersistentLevel.MainMenuMap' with GeneratedClass '/Game/Maps/MainMenuMap.MainMenuMap_C' with ClassGeneratedBy '/Game/Maps/MainMenuMap.MainMenuMap:PersistentLevel.MainMenuMap'
+[2020.01.15-22.27.31:955][770]LogUObjectHash: Compacting FUObjectHashTables data took   3.10ms
+[2020.01.15-22.27.31:976][771]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2020.01.15-22.28.59:520][696]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.01.15-22.28.59:548][696]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/MainMenuMap.MainMenuMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenuMap.MainMenuMap:PersistentLevel.MainMenuMap' with GeneratedClass '/Game/Maps/MainMenuMap.MainMenuMap_C' with ClassGeneratedBy '/Game/Maps/MainMenuMap.MainMenuMap:PersistentLevel.MainMenuMap'
+[2020.01.15-22.28.59:548][696]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.01.15-22.28.59:553][696]LogPlayLevel: [PlayLevel] Compiling BP_LoadingScreen before play...
+[2020.01.15-22.28.59:839][696]LogUObjectHash: Compacting FUObjectHashTables data took   4.48ms
+[2020.01.15-22.28.59:839][696]LogPlayLevel: PlayLevel: Blueprint regeneration took 290 ms (1 blueprints)
+[2020.01.15-22.28.59:839][696]LogHMD: Initializing OVRPlugin session
+[2020.01.15-22.28.59:912][696]LogHMD: Allocating Oculus 3296 x 1776 rendertarget swapchain
+[2020.01.15-22.28.59:913][696]PIE: New page: PIE session: MainMenuMap (Jan 16, 2020, 8:28:59 PM)
+[2020.01.15-22.28.59:913][696]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMenuMap
+[2020.01.15-22.28.59:916][696]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002235s)
+[2020.01.15-22.28.59:916][696]LogAIModule: Creating AISystem for world MainMenuMap
+[2020.01.15-22.28.59:916][696]LogPlayLevel: PIE: World Init took: (0.000828s)
+[2020.01.15-22.28.59:917][696]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenuMap.MainMenuMap to /Game/Maps/UEDPIE_0_MainMenuMap.MainMenuMap (0.003177s)
+[2020.01.15-22.28.59:963][696]LogUObjectHash: Compacting FUObjectHashTables data took   3.12ms
+[2020.01.15-22.29.00:009][696]LogInit: XAudio2 using 'Headset Earphone (HyperX Virtual Surround Sound)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.01.15-22.29.00:023][696]LogInit: FAudioDevice initialized.
+[2020.01.15-22.29.00:031][696]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.15-22.29.00:031][696]LogLoad: Game class is 'GameModeBase'
+[2020.01.15-22.29.00:033][696]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMenuMap.MainMenuMap up for play (max tick rate 0) at 2020.01.16-09.29.00
+[2020.01.15-22.29.00:033][696]LogWorld: Bringing up level for play took: 0.000792
+[2020.01.15-22.29.00:033][696]LogOnline: OSS: Creating online subsystem instance for: :Context_37
+[2020.01.15-22.29.00:036][696]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(723)]!
+[2020.01.15-22.29.00:038][696]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_MainMenuMap 0.991
+[2020.01.15-22.29.00:038][696]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/MainMenuMap.MainMenuMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenuMap.MainMenuMap:PersistentLevel.MainMenuMap' with GeneratedClass '/Game/Maps/MainMenuMap.MainMenuMap_C' with ClassGeneratedBy '/Game/Maps/MainMenuMap.MainMenuMap:PersistentLevel.MainMenuMap'
+[2020.01.15-22.29.01:060][779]LogLevel: Warning: Failed to find streaming level object associated with 'BasicTestingMap'
+[2020.01.15-22.29.01:060][779]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.15-22.29.03:530][995]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/MainMenuMap.MainMenuMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenuMap.MainMenuMap:PersistentLevel.MainMenuMap' with GeneratedClass '/Game/Maps/MainMenuMap.MainMenuMap_C' with ClassGeneratedBy '/Game/Maps/MainMenuMap.MainMenuMap:PersistentLevel.MainMenuMap'
+[2020.01.15-22.29.03:535][995]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.15-22.29.03:535][995]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MainMenuMap
+[2020.01.15-22.29.03:545][995]LogSlate: Window 'OPC Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.01.15-22.29.03:593][995]LogWorld: UWorld::CleanupWorld for MainMenuMap, bSessionEnded=true, bCleanupResources=true
+[2020.01.15-22.29.03:601][995]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.15-22.29.03:602][995]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/MainMenuMap.MainMenuMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenuMap.MainMenuMap:PersistentLevel.MainMenuMap' with GeneratedClass '/Game/Maps/MainMenuMap.MainMenuMap_C' with ClassGeneratedBy '/Game/Maps/MainMenuMap.MainMenuMap:PersistentLevel.MainMenuMap'
+[2020.01.15-22.29.03:656][995]LogUObjectHash: Compacting FUObjectHashTables data took   3.17ms
+[2020.01.15-22.29.03:680][996]LogPlayLevel: Display: Destroying online subsystem :Context_37
+[2020.01.15-22.29.56:918][127]BlueprintLog: New page: Compile BP_LoadingScreen
+[2020.01.15-22.29.56:967][127]LogUObjectHash: Compacting FUObjectHashTables data took   3.87ms
+[2020.01.15-22.29.57:430][166]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainMenu/BP_LoadingScreen" FILE="F:/OpenCollab/OpenCollab/OPC/Content/UI/MainMenu/BP_LoadingScreen.uasset" SILENT=true
+[2020.01.15-22.29.57:443][166]LogSavePackage: Moving 'F:/OpenCollab/OpenCollab/OPC/Saved/BP_LoadingScreenF95AC6E549121B7AEDE9B69DE4AC39C3.tmp' to 'F:/OpenCollab/OpenCollab/OPC/Content/UI/MainMenu/BP_LoadingScreen.uasset'
+[2020.01.15-22.30.00:424][404]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainMenu/BP_ServerListEntry" FILE="F:/OpenCollab/OpenCollab/OPC/Content/UI/MainMenu/BP_ServerListEntry.uasset" SILENT=true
+[2020.01.15-22.30.00:434][404]LogSavePackage: Moving 'F:/OpenCollab/OpenCollab/OPC/Saved/BP_ServerListEntry3F7C00684F79B6D44745FBA9C2CE63D0.tmp' to 'F:/OpenCollab/OpenCollab/OPC/Content/UI/MainMenu/BP_ServerListEntry.uasset'
+[2020.01.15-22.30.04:134][766]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.01.15-22.30.04:160][766]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/MainMenuMap.MainMenuMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenuMap.MainMenuMap:PersistentLevel.MainMenuMap' with GeneratedClass '/Game/Maps/MainMenuMap.MainMenuMap_C' with ClassGeneratedBy '/Game/Maps/MainMenuMap.MainMenuMap:PersistentLevel.MainMenuMap'
+[2020.01.15-22.30.04:160][766]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.15-22.30.04:160][766]LogHMD: Initializing OVRPlugin session
+[2020.01.15-22.30.04:231][766]LogHMD: Allocating Oculus 3296 x 1776 rendertarget swapchain
+[2020.01.15-22.30.04:232][766]PIE: New page: PIE session: MainMenuMap (Jan 16, 2020, 8:30:04 PM)
+[2020.01.15-22.30.04:233][766]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMenuMap
+[2020.01.15-22.30.04:235][766]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002120s)
+[2020.01.15-22.30.04:235][766]LogAIModule: Creating AISystem for world MainMenuMap
+[2020.01.15-22.30.04:236][766]LogPlayLevel: PIE: World Init took: (0.000822s)
+[2020.01.15-22.30.04:236][766]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenuMap.MainMenuMap to /Game/Maps/UEDPIE_0_MainMenuMap.MainMenuMap (0.003051s)
+[2020.01.15-22.30.04:278][766]LogUObjectHash: Compacting FUObjectHashTables data took   4.30ms
+[2020.01.15-22.30.04:323][766]LogInit: XAudio2 using 'Headset Earphone (HyperX Virtual Surround Sound)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.01.15-22.30.04:336][766]LogInit: FAudioDevice initialized.
+[2020.01.15-22.30.04:344][766]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.15-22.30.04:345][766]LogLoad: Game class is 'GameModeBase'
+[2020.01.15-22.30.04:346][766]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMenuMap.MainMenuMap up for play (max tick rate 0) at 2020.01.16-09.30.04
+[2020.01.15-22.30.04:346][766]LogWorld: Bringing up level for play took: 0.000804
+[2020.01.15-22.30.04:346][766]LogOnline: OSS: Creating online subsystem instance for: :Context_38
+[2020.01.15-22.30.04:349][766]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(723)]!
+[2020.01.15-22.30.04:352][766]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_MainMenuMap -0.694
+[2020.01.15-22.30.04:352][766]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/MainMenuMap.MainMenuMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenuMap.MainMenuMap:PersistentLevel.MainMenuMap' with GeneratedClass '/Game/Maps/MainMenuMap.MainMenuMap_C' with ClassGeneratedBy '/Game/Maps/MainMenuMap.MainMenuMap:PersistentLevel.MainMenuMap'
+[2020.01.15-22.30.06:186][923]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.15-22.30.06:187][923]LogNet: Browse: /Game/Maps/BasicTestingMap
+[2020.01.15-22.30.06:195][923]LogHMD: FSplash::OnShow
+[2020.01.15-22.30.06:196][923]LogLoad: LoadMap: /Game/Maps/BasicTestingMap
+[2020.01.15-22.30.06:196][923]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MainMenuMap
+[2020.01.15-22.30.06:196][923]LogWorld: UWorld::CleanupWorld for MainMenuMap, bSessionEnded=true, bCleanupResources=true
+[2020.01.15-22.30.06:244][923]LogUObjectHash: Compacting FUObjectHashTables data took   3.36ms
+[2020.01.15-22.30.06:255][923]LogAIModule: Creating AISystem for world BasicTestingMap
+[2020.01.15-22.30.06:255][923]LogLoad: Game class is 'GameModeBase'
+[2020.01.15-22.30.06:257][923]LogWorld: Bringing World /Game/Maps/UEDPIE_0_BasicTestingMap.BasicTestingMap up for play (max tick rate 0) at 2020.01.16-09.30.06
+[2020.01.15-22.30.06:257][923]LogWorld: Bringing up level for play took: 0.001606
+[2020.01.15-22.30.06:258][923]LogHMD: FSplash::OnShow
+[2020.01.15-22.30.06:259][923]LogLoad: Took 0.063088 seconds to LoadMap(/Game/Maps/BasicTestingMap)
+[2020.01.15-22.30.06:282][924]LogHMD: FSplash::OnHide
+[2020.01.15-22.30.14:823][681]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/MainMenuMap.MainMenuMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenuMap.MainMenuMap:PersistentLevel.MainMenuMap' with GeneratedClass '/Game/Maps/MainMenuMap.MainMenuMap_C' with ClassGeneratedBy '/Game/Maps/MainMenuMap.MainMenuMap:PersistentLevel.MainMenuMap'
+[2020.01.15-22.30.14:827][681]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.15-22.30.14:827][681]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_BasicTestingMap
+[2020.01.15-22.30.14:838][681]LogSlate: Window 'OPC Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.01.15-22.30.14:886][681]LogWorld: UWorld::CleanupWorld for BasicTestingMap, bSessionEnded=true, bCleanupResources=true
+[2020.01.15-22.30.14:892][681]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.15-22.30.14:892][681]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/MainMenuMap.MainMenuMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenuMap.MainMenuMap:PersistentLevel.MainMenuMap' with GeneratedClass '/Game/Maps/MainMenuMap.MainMenuMap_C' with ClassGeneratedBy '/Game/Maps/MainMenuMap.MainMenuMap:PersistentLevel.MainMenuMap'
+[2020.01.15-22.30.14:946][681]LogUObjectHash: Compacting FUObjectHashTables data took   3.27ms
+[2020.01.15-22.30.14:966][682]LogPlayLevel: Display: Destroying online subsystem :Context_38
+[2020.01.15-22.30.17:154][911]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.01.15-22.30.19:815][165]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.01.15-22.30.19:846][165]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/MainMenuMap.MainMenuMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenuMap.MainMenuMap:PersistentLevel.MainMenuMap' with GeneratedClass '/Game/Maps/MainMenuMap.MainMenuMap_C' with ClassGeneratedBy '/Game/Maps/MainMenuMap.MainMenuMap:PersistentLevel.MainMenuMap'
+[2020.01.15-22.30.19:846][165]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.15-22.30.19:846][165]LogHMD: Initializing OVRPlugin session
+[2020.01.15-22.30.19:921][165]LogHMD: Allocating Oculus 3296 x 1776 rendertarget swapchain
+[2020.01.15-22.30.19:922][165]PIE: New page: PIE session: MainMenuMap (Jan 16, 2020, 8:30:19 PM)
+[2020.01.15-22.30.19:922][165]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMenuMap
+[2020.01.15-22.30.19:924][165]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002175s)
+[2020.01.15-22.30.19:925][165]LogAIModule: Creating AISystem for world MainMenuMap
+[2020.01.15-22.30.19:925][165]LogPlayLevel: PIE: World Init took: (0.000854s)
+[2020.01.15-22.30.19:925][165]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenuMap.MainMenuMap to /Game/Maps/UEDPIE_0_MainMenuMap.MainMenuMap (0.003135s)
+[2020.01.15-22.30.19:969][165]LogUObjectHash: Compacting FUObjectHashTables data took   3.35ms
+[2020.01.15-22.30.20:018][165]LogInit: XAudio2 using 'Headset Earphone (HyperX Virtual Surround Sound)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.01.15-22.30.20:033][165]LogInit: FAudioDevice initialized.
+[2020.01.15-22.30.20:042][165]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.15-22.30.20:042][165]LogLoad: Game class is 'GameMode'
+[2020.01.15-22.30.20:043][165]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMenuMap.MainMenuMap up for play (max tick rate 0) at 2020.01.16-09.30.20
+[2020.01.15-22.30.20:043][165]LogWorld: Bringing up level for play took: 0.000772
+[2020.01.15-22.30.20:043][165]LogOnline: OSS: Creating online subsystem instance for: :Context_39
+[2020.01.15-22.30.20:045][165]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.01.15-22.30.20:045][165]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.01.15-22.30.20:045][165]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.01.15-22.30.20:046][165]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(723)]!
+[2020.01.15-22.30.20:046][165]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.01.15-22.30.20:049][165]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_MainMenuMap 1.003
+[2020.01.15-22.30.20:049][165]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/MainMenuMap.MainMenuMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenuMap.MainMenuMap:PersistentLevel.MainMenuMap' with GeneratedClass '/Game/Maps/MainMenuMap.MainMenuMap_C' with ClassGeneratedBy '/Game/Maps/MainMenuMap.MainMenuMap:PersistentLevel.MainMenuMap'
+[2020.01.15-22.30.20:877][229]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.15-22.30.20:878][229]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2020.01.15-22.30.20:878][229]LogGameState: Match State Changed from InProgress to LeavingMap
+[2020.01.15-22.30.20:878][229]LogNet: Browse: /Game/Maps/BasicTestingMap
+[2020.01.15-22.30.20:878][229]LogHMD: FSplash::OnShow
+[2020.01.15-22.30.20:878][229]LogLoad: LoadMap: /Game/Maps/BasicTestingMap
+[2020.01.15-22.30.20:878][229]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MainMenuMap
+[2020.01.15-22.30.20:879][229]LogWorld: UWorld::CleanupWorld for MainMenuMap, bSessionEnded=true, bCleanupResources=true
+[2020.01.15-22.30.20:921][229]LogUObjectHash: Compacting FUObjectHashTables data took   3.28ms
+[2020.01.15-22.30.20:933][229]LogAIModule: Creating AISystem for world BasicTestingMap
+[2020.01.15-22.30.20:933][229]LogLoad: Game class is 'GameModeBase'
+[2020.01.15-22.30.20:935][229]LogWorld: Bringing World /Game/Maps/UEDPIE_0_BasicTestingMap.BasicTestingMap up for play (max tick rate 0) at 2020.01.16-09.30.20
+[2020.01.15-22.30.20:935][229]LogWorld: Bringing up level for play took: 0.001805
+[2020.01.15-22.30.20:936][229]LogHMD: FSplash::OnShow
+[2020.01.15-22.30.20:936][229]LogLoad: Took 0.057980 seconds to LoadMap(/Game/Maps/BasicTestingMap)
+[2020.01.15-22.30.20:959][230]LogHMD: FSplash::OnHide
+[2020.01.15-22.30.22:960][404]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/MainMenuMap.MainMenuMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenuMap.MainMenuMap:PersistentLevel.MainMenuMap' with GeneratedClass '/Game/Maps/MainMenuMap.MainMenuMap_C' with ClassGeneratedBy '/Game/Maps/MainMenuMap.MainMenuMap:PersistentLevel.MainMenuMap'
+[2020.01.15-22.30.22:965][404]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.15-22.30.22:965][404]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_BasicTestingMap
+[2020.01.15-22.30.22:975][404]LogSlate: Window 'OPC Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.01.15-22.30.23:022][404]LogWorld: UWorld::CleanupWorld for BasicTestingMap, bSessionEnded=true, bCleanupResources=true
+[2020.01.15-22.30.23:030][404]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.15-22.30.23:030][404]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/MainMenuMap.MainMenuMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenuMap.MainMenuMap:PersistentLevel.MainMenuMap' with GeneratedClass '/Game/Maps/MainMenuMap.MainMenuMap_C' with ClassGeneratedBy '/Game/Maps/MainMenuMap.MainMenuMap:PersistentLevel.MainMenuMap'
+[2020.01.15-22.30.23:086][404]LogUObjectHash: Compacting FUObjectHashTables data took   3.18ms
+[2020.01.15-22.30.23:105][405]LogPlayLevel: Display: Destroying online subsystem :Context_39
+[2020.01.15-22.30.31:611][309]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.01.15-22.30.31:641][309]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/MainMenuMap.MainMenuMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenuMap.MainMenuMap:PersistentLevel.MainMenuMap' with GeneratedClass '/Game/Maps/MainMenuMap.MainMenuMap_C' with ClassGeneratedBy '/Game/Maps/MainMenuMap.MainMenuMap:PersistentLevel.MainMenuMap'
+[2020.01.15-22.30.31:641][309]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.15-22.30.31:641][309]LogHMD: Initializing OVRPlugin session
+[2020.01.15-22.30.31:713][309]LogHMD: Allocating Oculus 3296 x 1776 rendertarget swapchain
+[2020.01.15-22.30.31:714][309]PIE: New page: PIE session: MainMenuMap (Jan 16, 2020, 8:30:31 PM)
+[2020.01.15-22.30.31:714][309]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMenuMap
+[2020.01.15-22.30.31:716][309]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002167s)
+[2020.01.15-22.30.31:717][309]LogAIModule: Creating AISystem for world MainMenuMap
+[2020.01.15-22.30.31:717][309]LogPlayLevel: PIE: World Init took: (0.000834s)
+[2020.01.15-22.30.31:717][309]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenuMap.MainMenuMap to /Game/Maps/UEDPIE_0_MainMenuMap.MainMenuMap (0.003109s)
+[2020.01.15-22.30.31:761][309]LogUObjectHash: Compacting FUObjectHashTables data took   3.25ms
+[2020.01.15-22.30.31:806][309]LogInit: XAudio2 using 'Headset Earphone (HyperX Virtual Surround Sound)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.01.15-22.30.31:819][309]LogInit: FAudioDevice initialized.
+[2020.01.15-22.30.31:827][309]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.15-22.30.31:827][309]LogLoad: Game class is 'GameMode'
+[2020.01.15-22.30.31:829][309]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMenuMap.MainMenuMap up for play (max tick rate 0) at 2020.01.16-09.30.31
+[2020.01.15-22.30.31:830][309]LogWorld: Bringing up level for play took: 0.001531
+[2020.01.15-22.30.31:830][309]LogOnline: OSS: Creating online subsystem instance for: :Context_40
+[2020.01.15-22.30.31:831][309]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.01.15-22.30.31:831][309]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.01.15-22.30.31:831][309]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.01.15-22.30.31:832][309]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(723)]!
+[2020.01.15-22.30.31:833][309]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.01.15-22.30.31:835][309]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_MainMenuMap 0.788
+[2020.01.15-22.30.31:835][309]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/MainMenuMap.MainMenuMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenuMap.MainMenuMap:PersistentLevel.MainMenuMap' with GeneratedClass '/Game/Maps/MainMenuMap.MainMenuMap_C' with ClassGeneratedBy '/Game/Maps/MainMenuMap.MainMenuMap:PersistentLevel.MainMenuMap'
+[2020.01.15-22.30.32:630][374]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(723)]!
+[2020.01.15-22.30.32:630][374]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.15-22.30.35:036][584]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(723)]!
+[2020.01.15-22.30.35:036][584]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.15-22.30.35:756][647]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(723)]!
+[2020.01.15-22.30.35:756][647]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.15-22.30.37:010][757]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.15-22.30.41:280][136]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/MainMenuMap.MainMenuMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenuMap.MainMenuMap:PersistentLevel.MainMenuMap' with GeneratedClass '/Game/Maps/MainMenuMap.MainMenuMap_C' with ClassGeneratedBy '/Game/Maps/MainMenuMap.MainMenuMap:PersistentLevel.MainMenuMap'
+[2020.01.15-22.30.41:286][136]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.15-22.30.41:286][136]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MainMenuMap
+[2020.01.15-22.30.41:296][136]LogSlate: Window 'OPC Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.01.15-22.30.41:343][136]LogWorld: UWorld::CleanupWorld for MainMenuMap, bSessionEnded=true, bCleanupResources=true
+[2020.01.15-22.30.41:353][136]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.15-22.30.41:353][136]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/MainMenuMap.MainMenuMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenuMap.MainMenuMap:PersistentLevel.MainMenuMap' with GeneratedClass '/Game/Maps/MainMenuMap.MainMenuMap_C' with ClassGeneratedBy '/Game/Maps/MainMenuMap.MainMenuMap:PersistentLevel.MainMenuMap'
+[2020.01.15-22.30.41:408][136]LogUObjectHash: Compacting FUObjectHashTables data took   3.10ms
+[2020.01.15-22.30.41:427][137]LogPlayLevel: Display: Destroying online subsystem :Context_40
