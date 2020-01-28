@@ -6,7 +6,7 @@ run/join server
 
 various sections with seating
 
-whiteboards, can be drawn on
+whiteboards (modelled), can be drawn on
 
 voice chat
 
